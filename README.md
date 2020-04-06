@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Soon
 
-You can use the [editor on GitHub](https://github.com/itmattersprin/itmattersprin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Soon is a Jekyll site that produces a "coming soon" page.  You can preview
+the site [here](https://kelvinmo.github.io/soon).
 
-### Markdown
+Additional optional features include:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* A countdown clock
+* Mailing list subscription form
+* Social media links
 
-```markdown
-Syntax highlighted code block
+## Customisation
 
-# Header 1
-## Header 2
-### Header 3
+The main content can be customised in `index.md`.
 
-- Bulleted
-- List
+Most of the configuration can be done in `_config.yml`.  Fine-tuning of
+styles and additional content can be done in `soon.scss` and the
+partials in the `_includes` directory.
 
-1. Numbered
-2. List
+The styles are largely based on a heavily simplified version of
+[Bulma](https://bulma.io).
 
-**Bold** and _Italic_ and `Code` text
+## Licence
 
-[Link](url) and ![Image](src)
-```
+BSD 3 clause.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Placeholder Artwork Credits
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itmattersprin/itmattersprin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Placholder background from [Pexels](https://www.pexels.com/photo/abstract-art-astronomy-background-220071/)
+* Placeholder logo from [LogoDust](http://logodust.com/)
