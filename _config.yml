@@ -1,9 +1,9 @@
 # Site settings
 # Site title
-title: Coming Soon
+title: IT-Matters
 
 # Site description
-description: A fancy description of the site
+description: IT-Matters Web Page
 
 # Site background
 background: "images/background.jpg"
@@ -15,25 +15,25 @@ logo: "images/logo.png"
 # (This can be commented out if not required.)
 countdown:
   # format: "2013-09-25 16:00:00 +0800"
-  launch_date: 2025-01-01
+  launch_date: 2020-04-20
   # %d, %H, %M, %S available
   format: "%d days, %H hours, %M minutes, %S seconds"
 
 # Mailing list subscription
 # (This can be commented out if not required.)
-subscribe:
-  action: "/thank-you"
+#subscribe:
+#  action: "/thank-you"
 
 # Social media links
 # (This can be commented out if not required.)
-social:
-  facebook: "#"
-  twitter: "#"
-  google: "#"
-  instagram: "#"
-  pinterest: "#"
-  snapchat: "#"
-  linkedin: "in/#"
+#social:
+#  facebook: "#"
+#  twitter: "#"
+#  google: "#"
+#  instagram: "#"
+#  pinterest: "#"
+#  snapchat: "#"
+#  linkedin: "in/#"
 
 # Build settings
 markdown: kramdown
