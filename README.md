@@ -1,32 +1,7 @@
-# Soon
+# IT-Matters Web site
 
-## Introduction
 
-Soon is a Jekyll site that produces a "coming soon" page.  You can preview
-the site [here](https://kelvinmo.github.io/soon).
+The goal of the project is the development and the experimentation of a novel methodology for the specification, implementation and validation of trustworthy smart systems based on formal methods. We envisage system development in three steps by first providing and analysing system models to find design errors, then moving from models to executable code by translation into domain-specific programming languages and, finally, monitoring runtime execution to detect anomalous behaviours and to support systems in taking context-dependent decisions autonomously.
+The project will have scientific and technological impact, and its results may have implications for Italian industry, Italian economy and, in the long term, Italian society. Scientifically, the research will yield new, fundamental insights on the general properties of large scale, physically located, smart systems, leading to an end-to-end, principled approach to their design, implementation and deployment. The developed software tools and the work on the case studies will show the effectiveness of our proposed approach in three practical scenarios at different application scales, will reduce the gap between theory and practice, and will demonstrate the use of our techniques to Italian industry and society.
 
-Additional optional features include:
-
-* A countdown clock
-* Mailing list subscription form
-* Social media links
-
-## Customisation
-
-The main content can be customised in `index.md`.
-
-Most of the configuration can be done in `_config.yml`.  Fine-tuning of
-styles and additional content can be done in `soon.scss` and the
-partials in the `_includes` directory.
-
-The styles are largely based on a heavily simplified version of
-[Bulma](https://bulma.io).
-
-## Licence
-
-BSD 3 clause.
-
-## Placeholder Artwork Credits
-
-* Placholder background from [Pexels](https://www.pexels.com/photo/abstract-art-astronomy-background-220071/)
-* Placeholder logo from [LogoDust](http://logodust.com/)
+The web site will be available online soon. In the meantime we are using the [Soon](https://github.com/kelvinmo/soon.git) template pate.
