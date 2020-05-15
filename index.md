@@ -1,5 +1,5 @@
 ---
-layout: soon
+layout: index
 permalink: /
 ---
 
