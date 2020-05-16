@@ -1,19 +1,21 @@
 ---
-title: "Description"
-layout: "index"
+layout: index
+content: true
+docs_list_title: Events
+use-site-title: false
 ---
-# [TO BE COMPLETED]
 
-# Smart Systems
+<h1>A few events</h1>
 
-Smart systems are large-scale, physically-distributed services where
-different kinds of data-collection sensors are used to supply
-information employed to efficiently manage assets and resources, and
-provide efficient operations. These systems are increasingly pervasive
-and interact extensively with their environment. It is thus crucial
-that unexpected and possibly dangerous situations be avoided. Hence,
-there is a strong need of techniques to guarantee that systems are
-trustworthy. Here trustworthiness is a holistic property, encompassing
-different characteristics (safety, security, integrity, availability,
-correctness, reliability, resilience) that are not addressed in
-isolation but as a whole at system level.
+{% assign items = site.eventsIT | sort: 'date' | reverse %}
+
+
+<div class="events-list">
+  {% for n in items %}
+    <h4> {{ n.date | date_to_long_string }} {{ n.name }} </h4>
+    {% if n.wp %}
+	  <a haref="{{ n.wp }}">More here</a>
+    {% endif %}
+  {% endfor %}
+</div>
+

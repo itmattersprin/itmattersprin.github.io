@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+  {% include base.html %}
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,15 +12,18 @@
 
         <title>{{ site.title }}</title>
 
-        <link rel="stylesheet" href="aux/main.css">
+        <link rel="stylesheet" href="/aux/main.css">
 
         {% if site.social %}
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         {% endif %}
 
-        {% include head.html %}
+            {% include head.html %}
+
     </head>
     <body>
+
+      {{ content}}
 
         <script type="text/javascript">
             var wrappers = document.getElementsByClassName("soon-box-wrapper");

@@ -1,7 +1,9 @@
 ---
-title: "Consortium"
+layout: index
+content: true
+docs_list_title: Consortium
+use-site-title: false
 ---
-
 
 <strong>GSSI<strong/>
 <ul>

@@ -1,7 +1,10 @@
 ---
-title: People
+layout: index
+content: true
+docs_list_title: People
 use-site-title: false
 ---
+
 {% assign people = site.staff | sort: 'secondname' %}
 
 <div class="people-list">

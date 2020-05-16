@@ -1,7 +1,11 @@
 ---
-title: Publications
+layout: index
+content: true
+docs_list_title: Publications
 use-site-title: false
 ---
+
+<h1>Publications</h1>
 
 {% assign items = site.papers | sort: 'year' | reverse %}
 

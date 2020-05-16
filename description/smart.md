@@ -1,3 +1,8 @@
+---
+layout: index
+content: true
+---
+
 # Smart Systems
 
 Smart systems are large-scale, physically-distributed services where

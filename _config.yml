@@ -1,7 +1,9 @@
 # Site settings
+
 # Site title
-title: "IT MATTERS: Methods and Tools for Trustworthy Smart Systems"
-layout: page
+title: "IT MATTERS"
+subtitle: "Methods and Tools for Trustworthy Smart Systems"
+layout: index
 
 # Site description
 description: IT-Matters Site
@@ -15,8 +17,10 @@ logo: "images/logo.png"
 collections:
   - papers
   - staff
-  - news
+  - newsIT
+  - eventsIT
   - toolkits
+  - msIT
 
 # List of links in the navigation bar
 navbar-links:
@@ -68,6 +72,7 @@ countdown:
 #  pinterest: "#"
 #  snapchat: "#"
 #  linkedin: "in/#"
+
 
 # Build settings
 markdown: kramdown

@@ -1,5 +1,7 @@
 ---
-title: "Description"
+layout: index
+content: true
+use-site-title: false
 ---
 
 # The IT-MATTERS project
@@ -12,22 +14,22 @@ The project's scientific and technological impact will produce results from whic
 
 
 ## Structure
-The project will be structured in the following 6 work-packages.
+The project is structured in the following 6 work-packages.
 
-- **WP1 - Models and Languages:** will apply graph-based models to smart system scenarios in order to fully exploit the naturalness of such models. It will extend the concurrency theory of graph manipulation formalisms and identify suitable fragments of existing logics, interpreted over graphs, balancing expressiveness and usability.
-  [WP leader: Gadducci, UNIPI]
+- **WP1 - Models and Languages** will apply graph-based models to smart system scenarios in order to fully exploit the naturalness of such models. It will extend the concurrency theory of graph manipulation formalisms and identify suitable fragments of existing logics, interpreted over graphs, balancing expressiveness and usability.  
+[WP leader: Gadducci, UNIPI]
 
-- **WP2 - Systems Analysis:** will develop tools and techniques for supporting design-time analysis of smart systems at different levels of abstraction in order to predict their emerging behaviour and measure the ability of the systems to adapt autonomously to highly dynamic operational environments.
-  [WP leader: Loreti, UNICAM]
+- **WP2 - Systems Analysis** will develop tools and techniques for supporting design-time analysis of smart systems at different levels of abstraction in order to predict their emerging behaviour and measure the ability of the systems to adapt autonomously to highly dynamic operational environments.  
+[WP leader: Loreti, UNICAM]
 
-- **WP3 - from Models to Code:** will define a new programming framework resulting from the integration of the classic Event-Condition-Action paradigm with attribute-based and aggregate programming. The framework will support runtime monitoring.
-  [WP leader: Miculan, UNIUD]
-d
-- **WP4 - Runtime Monitoring:** will characterize the fragments of the studied logics that can be verified and enforced at runtime, and develop monitor synthesis procedures, suitable instrumentation mechanisms and prototype runtime monitoring tools.
-  [WP leader: Aceto, GSSI]
+- **WP3 - from Models to Code** will define a new programming framework resulting from the integration of the classic Event-Condition-Action paradigm with attribute-based and aggregate programming. The framework will support runtime monitoring.  
+[WP leader: Miculan, UNIUD]
 
-- **WP5 - Application and Validation:** will demonstrate the feasibility and impact of the various techniques, methodologies and tools developed during the project by applying them to three challenging smart-system scenarios of direct importance to some project partners and related stakeholders.
-  [WP leader: ter Beek, ISTI-CNR]
+- **WP4 - Runtime Monitoring** will characterize the fragments of the studied logics that can be verified and enforced at runtime, and develop monitor synthesis procedures, suitable instrumentation mechanisms and prototype runtime monitoring tools.  
+[WP leader: Aceto, GSSI]
 
-- **WP6 - Dissemination:** will disseminate the results of the project internally, within the scientific community and, via the three cases studies, to a variety of stakeholders.
-  [WP leader: De Nicola, IMT]
+- **WP5 - Application and Validation** will demonstrate the feasibility and impact of the various techniques, methodologies and tools developed during the project by applying them to three challenging smart-system scenarios of direct importance to some project partners and related stakeholders.  
+[WP leader: ter Beek, ISTI-CNR]
+
+- **WP6 - Dissemination** will disseminate the results of the project internally, within the scientific community and, via the three cases studies, to a variety of stakeholders.  
+[WP leader: De Nicola, IMT]
