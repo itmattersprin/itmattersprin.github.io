@@ -8,9 +8,9 @@ use-site-title: false
 <h1>Talks & presentations</h1>
 <div class="paper-list">
 <ul>
-<li>Introduction to WP1. F. Gadducci, May 22, 2020 <a href="../_papers/wp1Bis01_Fabio.pdf">Slides</a></li>
-<li>Are graphs enough to reason about spatial-temporal properties?. M. Loreti, May 22, 2020 <a href="../_papers/wp1Bis01_Michele.pdf">Slides</a></li>
-<li>Closure Spaces & SLCS - WP1 preliminary report. D. Latella, May 22, 2020 <a href="../_papers/wp1Bis01_Diego.pdf">Slides</a></li>
+<li>Introduction to WP1. F. Gadducci, May 22, 2020 <a href="../papers/wp1Bis01_Fabio.pdf">Slides</a></li>
+<li>Are graphs enough to reason about spatial-temporal properties?. M. Loreti, May 22, 2020 <a href="../papers/wp1Bis01_Michele.pdf">Slides</a></li>
+<li>Closure Spaces & SLCS - WP1 preliminary report. D. Latella, May 22, 2020 <a href="../papers/wp1Bis01_Diego.pdf">Slides</a></li>
 </ul>
 </div>
 
