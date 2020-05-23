@@ -12,6 +12,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+talk-list ul li {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    font-weight: bold;
+}
 a {
     text-decoration: none;
     color: #999;

@@ -16,6 +16,7 @@ logo: "images/logo.png"
 
 collections:
   - papers
+  - talks
   - staff
   - newsIT
   - eventsIT
