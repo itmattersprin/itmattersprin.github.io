@@ -1,0 +1,7 @@
+---
+type: talk
+author: Michele Loreti
+title: Are graphs enough to reason about spatial-temporal properties?
+date: 22/05/2020
+slides: wp1Bis02_Michele.pdf
+---
