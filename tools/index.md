@@ -11,7 +11,7 @@ use-site-title: false
 
 <div class="tools-list">
   {% for n in items %}
-    <h2> {{ n.name }} {% if n.date %} ({{ n.date | date_to_long_string }}) {% endif %}</h2>
+    <h2> {{ n.name }} {% if n.date %} ({{ n.date | date: '%B %d, %Y' }}) {% endif %}</h2>
     <p>{{ n.description }}
 		{% if n.url %}<br/>Available <a href="{{ n.url }}">here</a> {% endif %}
 		{% if n.contact %}<br/><a href="mailto:{{ n.contact }}">Contact</a>. {% endif %}

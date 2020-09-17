@@ -5,7 +5,7 @@ docs_list_title: News
 use-site-title: false
 ---
 
-<h1> News from the IT-MATTERS folks </h1>
+<h1> News from the {{ site.title }} folks </h1>
 
 {% assign items = site.newsIT | sort: 'name' %}
 

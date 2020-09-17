@@ -1,47 +1,88 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin: 60px auto;
-    width: 90%;
+    width: 70%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	 font-size:.7em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 2px;
+	 text-align:center;
     list-style: none;
     font-weight: bold;
+	 background-color: #e5680e;
+	 color:#ffffff;
 }
+
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+	 font-size:1.3em;
+    padding: 4px;
 }
-talk-list ul li {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 10px;
-    font-weight: bold;
+
+nav a{
+	 color:#ffffff;
 }
-paper-list ul li {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    font-weight: bold;
+
+li {
+	 	 font-size:1.5em;
 }
+
+td.quicklinks li {
+	 font-size : 1em;
+    margin-left: -2.5em;
+}
+
+td.mkd {
+	 font-size : .7em;
+}
+
+div.mkd {
+	 font-size : .8em;
+}
+
 a {
     text-decoration: none;
-    color: #999;
+	 color: #e5680e;
+    /* color: #1999; */
 }
+
 a:hover {
     text-decoration: underline;
+	 color: #1099;
 }
+
 h1 {
-    font-size: 3em;
+    font-size: 20pt;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+h2 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 18pt;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+	 
+}
+
+footer a {
+    color: #ffffff;
+	 
 }
 
 ul.posts { 
@@ -51,4 +92,153 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+p.normal {
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+a.subsec {
+    font-size: 1em;
+    text-decoration: none;
+    color: #999;
+}
+
+
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+td.box {
+	margin:0;
+	padding:0;
+	border:0;
+	height: 3em;
+	border: 1px solid #000;	 
+}
+
+div.fun {
+/*
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-iteration-count: infinite;
+  animation-direction: reverse;
+*/
+  position: relative;
+  animation-name: slidein;
+  animation-duration: 2s;
+}
+
+ /* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  /* border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  font-weight: bold;
+  color: #117a65;
+  opacity: 0.80;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 25em;
+  background-color: #555;
+  color: #fff;
+  text-align: left;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  font-size: .7em;
+  visibility: visible;
+  opacity: 1;
+} 
+
+.scroll {
+ height: 15em;	
+ overflow: hidden;
+ position: relative;
+}
+
+.scroll li {
+ position: absolute;
+ width: 100%;
+ margin: 0;
+ line-height: 1em;
+ text-align: left;
+ font-size: .75em;
+ /* Starting position */
+ -moz-transform:translateY(-100%);
+ -webkit-transform:translateY(-100%);	
+ transform:translateY(-100%);
+ /* Apply animation to this element */	
+ -moz-animation: scroll 10s linear infinite;
+ -webkit-animation: scroll 10s linear infinite;
+ animation: scroll 15s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll {
+ 0%   { -moz-transform: translateY(100%); }
+ 100% { -moz-transform: translateY(-100%); }
+}
+@-webkit-keyframes scroll {
+ 0%   { -webkit-transform: translateY(100%); }
+ 100% { -webkit-transform: translateY(-100%); }
+}
+@keyframes scroll {
+ 0%   { 
+ -moz-transform: translateY(100%); /* Firefox bug fix */
+ -webkit-transform: translateY(100%); /* Firefox bug fix */
+ transform: translateY(100%); 		
+ }
+ 100% { 
+ -moz-transform: translateY(-100%); /* Firefox bug fix */
+ -webkit-transform: translateY(-100%); /* Firefox bug fix */
+ transform: translateY(-100%); 
+ }
 }

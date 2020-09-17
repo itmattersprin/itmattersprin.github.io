@@ -6,7 +6,7 @@ content: true
 # {{ site.title}}
 ## {{ site.subtitle}}
 
-The goal of the IT-Matters is the development and the experimentation
+The goal of the {{ site.title }} is the development and the experimentation
 of a novel methodology for the specification, implementation and
 validation of trustworthy [smart systems](description/smart.html) based on formal
 methods. We envisage system development in three steps by first
@@ -16,4 +16,5 @@ domain-specific programming languages and, finally, monitoring runtime
 execution to detect anomalous behaviours and to support systems in
 taking context-dependent decisions autonomously.
 
+More details about  {{ site.title }} are [here](description).
 
