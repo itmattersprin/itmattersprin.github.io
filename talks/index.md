@@ -9,6 +9,7 @@ use-site-title: false
 {% assign items = site.talks | sort: 'date' | reverse %}
 {% for n in items %}
 - {{ n.title }}
-  <span markdown="1" style="font-size:.75em"><br/>{{ n.speaker }}. {{ n.date | date: '%B %d, %Y' }}. [Slides](talks/{{ n.slides }})</span>{% endfor %}
+  <span markdown="1" style="font-size:.75em"><br/>{{ n.speaker }}. {{ n.date | date: '%B %d, %Y' }}.
+  {% if n.slides %}[Slides](talks/{{ n.slides }}){% endif %}</span>{% endfor %}
 <div class="talk-list">
 </div>
