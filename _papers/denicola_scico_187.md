@@ -1,4 +1,9 @@
 ---
+partner:
+  - gssi
+  - imt
+wps:
+  - 3
 type: article
 wps:
   - 4

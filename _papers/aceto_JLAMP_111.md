@@ -15,4 +15,5 @@ volume: 111
 year: 2020
 link: "https://doi.org/10.1016/j.jlamp.2019.100515"
 doi: 10.1016/j.jlamp.2019.100515
+partner: gssi
 ---

@@ -13,4 +13,6 @@ doi: "10.1007/978-3-030-50029-0_7"
 published: true
 volume: 12134
 pages: "107-124"
+partner:
+  - gssi
 ---

@@ -2,6 +2,7 @@
 type: article
 wps:
   - 4
+partner: gssi
 author: 
   - "Paolo Arcaini"
   - "Omar Inverso"

@@ -1,5 +1,9 @@
 ---
 type: article
+wps:
+  - 2
+  - 3
+partner: gssi
 author:
   - "Omar Inverso"
   - "Catia Trubiani"

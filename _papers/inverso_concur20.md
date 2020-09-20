@@ -6,6 +6,9 @@ author:
   - "Luca Padovani"
   - "Catia Trubiani"
   - "Emilio Tuosto"
+wps:
+  - 2
+partner: gssi
 title: "Probabilistic Analysis of Binary Sessions"
 collection-title: "Proceedings of CONCUR"
 volume: 171

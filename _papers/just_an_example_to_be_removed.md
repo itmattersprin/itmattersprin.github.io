@@ -4,6 +4,7 @@ key: J22
 wps:
   - 2
   - 5
+  - "this is just an example and will be eventually removed"
 author: 
   - Vincenzo Ciancia
   - Stephen Gilmore
@@ -16,7 +17,7 @@ journal:  STTT
 published: true
 volume: 20
 issue: 3
-pages: 289--311
+pages: 289-311
 year: 2018
 link: "https://doi.org/10.1007/s10009-018-0483-8"
 doi: 10.1007/s10009-018-0483-8

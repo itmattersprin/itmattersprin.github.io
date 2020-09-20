@@ -4,6 +4,8 @@ author:
   - "Alex Coto"
   - "Roberto Guanciale"
   - "Emilio Tuosto"
+partner:
+  - gssi
 title: "An Abstract Framework for Choreographic Testing"
 collection-title: "Proceedings of ICE 2020"
 year: 2020

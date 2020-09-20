@@ -1,4 +1,6 @@
 ---
+partner:
+  - gssi
 type: article
 author:
   - "Ugo de'Liguoro"

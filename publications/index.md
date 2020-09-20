@@ -17,7 +17,7 @@ use-site-title: false
   {% assign lastyear = paper.year %}
   <article class="paper-preview">
 	<strong>{{ paper.title }}</strong>
-	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}){% else %}/ {% endif %}{% endfor %}</span>{% endif %}
+	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
 	<br>
 	{% for a in paper.author %}
 	  {{ a }}, 
@@ -45,4 +45,19 @@ use-site-title: false
 	{% endif %}
    </article>
   {% endfor %}
+  
+  <h1>Unpublished Manuscripts</h1>
+
+{% assign items = site.submitted %}
+
+<div class="paper-list">
+  {% for paper in items %}
+	<strong>{{ paper.title }}</strong>
+	{% for a in paper.author %}
+	  {{ a }}, 
+	{% endfor %}
+	<br/>
+    {{ paper.note }}
+	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
+  {% endfor%}
 </div>

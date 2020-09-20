@@ -1,5 +1,10 @@
 ---
 type: article
+partner:
+  - gssi
+  - imt
+wps:
+  - 3
 author:
   - "Rocco De Nicola"
   - "Tan Duong"
