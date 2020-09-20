@@ -12,5 +12,5 @@ volume: 171
 year: 2020
 published: true
 link: "https://doi.org/10.4230/LIPIcs.CONCUR.2020.14"
-doi: "10.4230/LIPIcs.CONCUR.2020.14""
+doi: "10.4230/LIPIcs.CONCUR.2020.14"
 ---

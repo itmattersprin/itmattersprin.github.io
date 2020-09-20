@@ -13,9 +13,7 @@ use-site-title: false
 
 <div class="paper-list">
   {% for paper in items %}
-  {% if paper.year != lastyear %}
-  <h2> {{ paper.year }}</h2>
-  {% endif %}
+  {% if paper.year != lastyear %}<h2> {{ paper.year }}</h2>{% endif %}
   {% assign lastyear = paper.year %}
   <article class="paper-preview">
 	<strong>{{ paper.title }}</strong>
@@ -43,7 +41,7 @@ use-site-title: false
 	{% else %}
 	{% if paper.journal %} {{ paper.journal }}. {% endif %}
 	{% if paper.collection-title %} {{ paper.collection-title }}. {% endif %}
-	To appear
+	{% if paper.note %}{{ paper.note }}.{% else %}To appear.{% endif%}
 	{% endif %}
    </article>
   {% endfor %}
