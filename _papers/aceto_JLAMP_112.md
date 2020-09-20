@@ -3,10 +3,10 @@ type: article
 wps:
   - 4
 author: 
-  - Luca Aceto
-  - A. Achilleos
-  - Adrian Francalanza
-  - Anna Ingólfsdóttir
+  - "Luca Aceto"
+  - "Antonis Achilleos"
+  - "Adrian Francalanza"
+  - "Anna Ingólfsdóttir"
 title: "The Complexity of Identifying Characteristic Formulae"
 journal: "Journal of Logical and Algebraic Methods in Programming"
 published: true

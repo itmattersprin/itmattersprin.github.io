@@ -1,0 +1,11 @@
+---
+type: article
+author:
+  - "Omar Inverso"
+  - "Catia Trubiani"
+title: "Parallel and distributed bounded model checking of multi-threaded programs"
+collection-title: "Proceedings of PPoPP"
+published: true
+link: "https://doi.org/10.1145/3332466.3374529"
+year: 2020
+---

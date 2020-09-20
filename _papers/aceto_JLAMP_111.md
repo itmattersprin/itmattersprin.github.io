@@ -4,7 +4,7 @@ wps:
   - 4
 author: 
   - "Luca Aceto"
-  - "A. Achilleos"
+  - "Antonis Achilleos"
   - "Adrian Francalanza"
   - "Anna Ingólfsdóttir"
   - "S.Ö. Kjartansson"
