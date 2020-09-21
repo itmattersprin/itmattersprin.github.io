@@ -16,9 +16,9 @@ logo: "images/logo.png"
 
 collections:
   - papers
+  - submitted
   - talks
   - staff
-  - newsIT
   - eventsIT
   - toolkits
   - msIT

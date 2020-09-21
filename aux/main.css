@@ -155,6 +155,7 @@ div.fun {
   /* border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
   font-weight: bold;
   color: #117a65;
+  font-size:.8em;
   opacity: 0.80;
 }
 

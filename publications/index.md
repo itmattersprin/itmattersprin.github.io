@@ -48,10 +48,10 @@ use-site-title: false
   
   <h1>Unpublished Manuscripts</h1>
 
-{% assign items = site.submitted %}
+{% assign sub = site.submitted %}
 
 <div class="paper-list">
-  {% for paper in items %}
+  {% for paper in sub %}
 	<strong>{{ paper.title }}</strong>
 	{% for a in paper.author %}
 	  {{ a }}, 
