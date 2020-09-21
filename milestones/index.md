@@ -10,9 +10,12 @@ use-site-title: false
 {% assign items = site.msIT | sort: 'date' %}
 
 <div class="news-list">
-  {% for n in items %}
-    <h2> {% if n.date%} {{ n.date | date_to_long_string }} {% else %} ??? {% endif %} {{ n.name }} </h2>
-    <h3> {{ n.description }} </h3>
-    <br/>
+<ul>
+  {% for m in items %}
+	<li> <span style="color:#ff1111">{{ m.name }}</span>
+	{% if m.date %} {{ m.date | date_to_long_string }} {% else %} ??? {% endif %}
+    <br/>{{ m.description }} {% if m.url %} <a href="{{ m.url }}">here</a> {% endif %}
+    </li>
   {% endfor %}
+</ul>
 </div>
