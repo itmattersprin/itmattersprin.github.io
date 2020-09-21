@@ -20,11 +20,13 @@ More details about  {{ site.title }} are [here](description).
 
 ## News
 <div markdown="1" class="scroll">
-<li>{% assign items = site.newsIT.news %}
+<li>{% assign items = site.newsIT %}
 {% for n in items %}
-{% if forloop.index <= 10 %}<b>{{ n.date  | date: '%B %d, %Y' }}</b>: {{ n.descr }} {% if n.url %} see [{{ n.url }}](here) {% endif %}<hr>
+{% if forloop.index <= 10 %}
+<b>{{ n.date  | date: '%B %d, %Y' }}</b>: {{ n.descr }} {% if n.link %} see <a href="{{ n.link }}" target="_blank">here</a>
+{% endif %}
+<hr>
 {% else %} {% break %} {% endif%}
 {% endfor %}
 </li>
 </div>
-

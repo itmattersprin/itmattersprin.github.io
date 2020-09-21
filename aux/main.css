@@ -212,7 +212,7 @@ div.fun {
  margin: 0;
  line-height: 1em;
  text-align: left;
- font-size: .75em;
+ font-size: .95em;
  /* Starting position */
  -moz-transform:translateY(-100%);
  -webkit-transform:translateY(-100%);	
