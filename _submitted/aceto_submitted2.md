@@ -8,6 +8,6 @@ author:
   - "Duncan Paul Attard"
   - "Adrian Francalanza"
   - "Anna Ingólfsdóttir"
-title: “On Benchmarking for Concurrent Runtime Monitoring”
+title: "On Benchmarking for Concurrent Runtime Monitoring"
 note: "Submitted for conference publication"
 ---

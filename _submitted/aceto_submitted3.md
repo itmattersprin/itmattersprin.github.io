@@ -9,6 +9,6 @@ author:
   - "Adrian Francalanza"
   - "Anna Ingólfsdóttir"
   - "Karoliina Lehtinen"
-title: “The best a monitor can do”
+title: "The best a monitor can do"
 note: "Submitted for conference publication"
 ---

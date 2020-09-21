@@ -8,6 +8,6 @@ author:
   - "Duncan Paul Attard"
   - "Adrian Francalanza"
   - "Anna Ingólfsdóttir"
-title: “On Monitoring Asynchronous Components, Asynchronously”
+title: "On Monitoring Asynchronous Components, Asynchronously"
 note: "Submitted for conference publication"
 ---

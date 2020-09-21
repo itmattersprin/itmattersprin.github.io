@@ -9,7 +9,7 @@ author:
   - "Adrian Francalanza"
   - "Anna Ingólfsdóttir"
   - "Karoliina Lehtinen"
-title: “An Operational Guide to Monitorability”
+title: "An Operational Guide to Monitorability"
 partner: gssi
 note: "Submitted to the journal Software and Systems Modeling, Springer"
 ---
