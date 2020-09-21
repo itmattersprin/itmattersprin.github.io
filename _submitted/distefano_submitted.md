@@ -1,5 +1,11 @@
 ---
 type: article
+wps:
+  - 3
+  - 4
+partner:
+  - gssi
+  - imt
 author:
   - "Luca Di Stefano"
   - "Omar Inverso"
@@ -7,4 +13,3 @@ author:
 title: "Semantics-based Verification of Concurrent Systems via Sequential Reachability or Termination"
 note: "Submitted for conference publication"
 ---
-

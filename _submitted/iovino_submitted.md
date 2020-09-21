@@ -7,6 +7,6 @@ author:
   - "Amleto Di Salle"
   - "Francesco Gallo"
   - "Michele Flammini"
-title: “Unavailable Transit Feed Specification: Making it Available with Recurrent Neural Networksa”
+title: "Unavailable Transit Feed Specification: Making it Available with Recurrent Neural Networks"
 note: "Submitted to conference"
 ---
