@@ -52,6 +52,7 @@ use-site-title: false
 
 <div class="paper-list">
   {% for paper in sub %}
+  <article>
 	<strong>{{ paper.title }}</strong>
 	<br/>
 	{% for a in paper.author %}
@@ -60,6 +61,6 @@ use-site-title: false
 	<br/>
     {{ paper.note }}
 	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
-	<br/>
+  </article>
   {% endfor%}
 </div>
