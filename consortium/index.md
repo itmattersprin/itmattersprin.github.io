@@ -8,7 +8,7 @@ use-site-title: false
 <strong>GSSI<strong/>
 <ul>
 <li>leader: Luca Aceto</li>
-<li>contact: <a href="mailto:emilio.tuosto@gssi.it">Emilio Tuosto</a></li>
+<li>contact: <a href="mailto:omar.inverso@gssi.it">Omar Inverso</a></li>
 </ul>
 <br/>
 

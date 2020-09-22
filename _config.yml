@@ -22,7 +22,7 @@ collections:
   - eventsIT
   - toolkits
   - msIT
-#  - newsIT
+  - newsIT
 
 # List of links in the navigation bar
 navbar-links:

@@ -1,7 +1,7 @@
 ---
 layout: index
 content: true
-docs_list_title: News
+docs_list_title: Milestones
 use-site-title: false
 ---
 

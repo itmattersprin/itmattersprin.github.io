@@ -46,7 +46,7 @@ use-site-title: false
    </article>
   {% endfor %}
   
-  <h1>Unpublished Manuscripts</h1>
+<h1>Unpublished Manuscripts</h1>
 
 {% assign sub = site.submitted %}
 
