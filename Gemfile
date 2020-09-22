@@ -9,3 +9,5 @@ gem 'wdm', '~> 0.1.0', :platforms => [:mswin, :mingw]
 gem 'tzinfo-data', :platforms => [:mswin, :mingw, :jruby]
 
 gem "minima", "~> 2.0"
+
+gem "kramdown-parser-gfm"

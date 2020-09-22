@@ -20,7 +20,7 @@ use-site-title: false
 	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
 	<br>
 	{% for a in paper.author %}
-	  {{ a }}, 
+	  {{ a }},
 	{% endfor %}
 	<br>
 	{% if paper.container-title %} {{ paper.container-title }}. {% endif %}
@@ -28,7 +28,7 @@ use-site-title: false
 	{% if paper.editor %}
 	  Editors
 	  {% for e in paper.editor %}
-	    {{ e['given'] }} {{ e['dropping-particle'] }} {{ e['family'] }}{% if forloop.last %}.{% else %}, {% endif %} 
+	    {{ e['given'] }} {{ e['dropping-particle'] }} {{ e['family'] }}{% if forloop.last %}.{% else %}, {% endif %}
 	  {% endfor %}
 	<br>
 	{% endif %}
@@ -44,8 +44,9 @@ use-site-title: false
 	{% if paper.note %}{{ paper.note }}.{% else %}To appear.{% endif%}
 	{% endif %}
    </article>
+   <br>
   {% endfor %}
-  
+
 <h1>Unpublished Manuscripts</h1>
 
 {% assign sub = site.submitted %}
@@ -62,5 +63,7 @@ use-site-title: false
     {{ paper.note }}
 	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
   </article>
+  <br>
+  
   {% endfor%}
 </div>

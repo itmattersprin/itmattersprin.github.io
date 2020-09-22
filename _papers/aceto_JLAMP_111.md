@@ -2,7 +2,7 @@
 type: article
 wps:
   - 4
-author: 
+author:
   - "Luca Aceto"
   - "Antonis Achilleos"
   - "Adrian Francalanza"
