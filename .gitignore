@@ -6,3 +6,5 @@ Gemfile.lock
 
 # Jekyll output files
 _site/
+
+.DS_Store

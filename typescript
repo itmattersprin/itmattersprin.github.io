@@ -1,0 +1,517 @@
+Script started on Wed Sep 23 19:01:21 2020
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 itmattersprin.github.io % [K[?2004hlls[?2004l
+CNAME		_includes	_submitted	dummy.md	publications
+COPYING.txt	_layouts	_talks		events		script
+Gemfile		_msIT		_toolkits	images		talks
+Gemfile.lock	_papers		aux		index.md	tools
+README.md	_sass		consortium	istruzioni.md	typescript
+_config.yml	_site		description	milestones
+_eventsIT	_staff		disco.md	people
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 itmattersprin.github.io % [K[?2004hccp c  lls[?2004l
+CNAME		_includes	_submitted	dummy.md	publications
+COPYING.txt	_layouts	_talks		events		script
+Gemfile		_msIT		_toolkits	images		talks
+Gemfile.lock	_papers		aux		index.md	tools
+README.md	_sass		consortium	istruzioni.md	typescript
+_config.yml	_site		description	milestones
+_eventsIT	_staff		disco.md	people
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 itmattersprin.github.io % [K[?2004hccd script[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+article_2020.md			article_2020_5_.md
+article_2020_1_.md		biblio.bib
+article_2020_2_.md		importbib.py
+article_2020_3_.md		inproceedings_2020.md
+article_2020_4_.md		inproceedings_2020_1_.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hccp a c  rrm *.dm[?2004l
+zsh: no matches found: *.dm
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.dmls     rm  l  rrm *.md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mddmls     cd script[9Dls       sudo bundler exec jekyll serve --watch[38Db[5P[32C     [33Dsudo gem install kramdown        [8D[25D[5P[20C     [20Dsudo gem install kramdown[25Dbundler exec jekyll serve --watch[33Dsudo bundler exec jekyll serve --watch[38Dls                                    [36Dcd script[9Dls       rm *.dmmd       ppython 2
+[Jpython2           python2.7         python2.7-config[A[0m[27m[24m[39Cpython2[K 3
+[J[Jpython3           python3-config    python3.8         python3.8-config[A[0m[27m[24m[39Cpython3[K importbib.py[1m [0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+article_2020.md		article_2020_2_.md	importbib.py
+article_2020_1_.md	biblio.bib		inproceedings_2020.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hccp article_2020.md[1m [0m[0m ../_papers[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm *.dm  md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdcp article_2020.md ../_papers[29Dls                           [27Dpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hccp *, , .md ../_papers[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrpr rm ../_papers[1m/[0m[0m/article_2020*[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm ../_papers[1m/[0m[0m/in
+[Jinproceedings_2020.md  inverso_ifm20.md       inverso_popp20.md
+inverso_concur20.md    inverso_isola20.md     inverso_sttt.md[A[A[0m[27m[24m[39Crm ../_papers/in[Kproceedings_2020.md[1m [0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hccp article_2020.md[1m [0m[0m ../_: papers[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm ../_papers[1m/[0m[0m/a
+[Jabdalrahman_SCP_192.md  aceto_JLAMP_112.md      aceto_sttt.md
+aceto_JLAMP_111.md      aceto_sefm19.md         article_2020.md[A[A[0m[27m[24m[39Crm ../_papers/a[Krticle_2020.md[1m [0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+article_2020.md		article_2020_2_.md	importbib.py
+article_2020_1_.md	biblio.bib		inproceedings_2020.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm é.  *.md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdls     rm ../_papers/article_2020.md[29Dcp [11P[15C ../_papers[29Drm[16P[11C/inproceedings_2020.md[21Darticle_2020*        [8D[27Dcp *.md ../_papers         [9D[18Dpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlless article_2020.md[1m [0m[0m [?2004l
+[?1049h[?1h=---
+year: pages: "100511"
+volume: "111"
+journal: "J. Log. Algebraic Methods Program."
+title: "A formal approach to the engineering of domain-specific distributed syst ems"
+author: 
+   - "Rocco De Nicola"
+   - "Gian Luigi Ferrari"
+   - "Rosario Pugliese"
+   - "Francesco Tiezzi"
+type: "article"
+ID: "DBLP:journals/jlap/NicolaFPT20"
+---
+[7marticle_2020.md (END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hccp article_2020.md[1m [0m[0m ../_papers[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm é *.. md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+biblio.bib	importbib.py
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlsrm *.mdcp article_2020.md ../_papers[?2004l
+cp: article_2020.md: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hcp article_2020.md ../_papers[29Dls                           [27Drm *.mdcp article_2020.md ../_papers[29Dless article_[2C20.md         [9D[20Dpython3 importbib.pyù [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlless article_2020.md[1m [0m[0m [?2004l
+[?1049h[?1h=---
+year: "2020"
+pages: "100511"
+volume: "111"
+journal: "J. Log. Algebraic Methods Program."
+title: "A formal approach to the engineering of domain-specific distributed syst ems"
+author: 
+   - "Rocco De Nicola"
+   - "Gian Luigi Ferrari"
+   - "Rosario Pugliese"
+   - "Francesco Tiezzi"
+type: "article"
+ID: "DBLP:journals/jlap/NicolaFPT20"
+---
+[7marticle_2020.md (END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hless article_2020.md[20Dpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hllsl less article_2020
+[Jarticle_2020.md     article_2020_2_.md  article_2020_4_.md  
+article_2020_1_.md  article_2020_3_.md  article_2020_5_.md  [A[A[0m[27m[24m[39Cless article_2020[K              l  rrm *.md[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+article_2020.md		article_2020_2_.md	importbib.py
+article_2020_1_.md	biblio.bib		inproceedings_2020.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlless article_2020.md[1m [0m[0m [?2004l
+[?1049h[?1h=---
+year: pages: "100511"
+volume: "111"
+journal: "J. Log. Algebraic Methods Program."
+title: "A formal approach to the engineering of domain-specific distributed syst ems"
+author: 
+   - "Rocco De Nicola"
+   - "Gian Luigi Ferrari"
+   - "Rosario Pugliese"
+   - "Francesco Tiezzi"
+type: "article"
+ID: "DBLP:journals/jlap/NicolaFPT20"
+---
+[7marticle_2020.md (END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hless article_2020.md[20D                    [20Drrm é *.md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdless article_2020.md[20Dls                  [18Dpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlless article_2020.md[1m [0m[0m [?2004l
+[?1049h[?1h=---
+year: pages: "100511"
+volume: "111"
+journal: "J. Log. Algebraic Methods Program."
+title: "A formal approach to the engineering of domain-specific distributed syst ems"
+author: 
+   - "Rocco De Nicola"
+   - "Gian Luigi Ferrari"
+   - "Rosario Pugliese"
+   - "Francesco Tiezzi"
+type: "article"
+ID: "DBLP:journals/jlap/NicolaFPT20"
+---
+[7marticle_2020.md (END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hless article_2020.md[20Dpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hllsl less article_2020,m  .md[1m [0m[0m [?2004l
+[?1049h[?1h=---
+year: pages: "100511"
+volume: "111"
+journal: "J. Log. Algebraic Methods Program."
+title: "A formal approach to the engineering of domain-specific distributed syst ems"
+author: 
+   - "Rocco De Nicola"
+   - "Gian Luigi Ferrari"
+   - "Rosario Pugliese"
+   - "Francesco Tiezzi"
+type: "article"
+ID: "DBLP:journals/jlap/NicolaFPT20"
+---
+[7marticle_2020.md (END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+article_2020.md			article_2020_5_.md
+article_2020_1_.md		biblio.bib
+article_2020_2_.md		importbib.py
+article_2020_3_.md		inproceedings_2020.md
+article_2020_4_.md		inproceedings_2020_1_.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm *.md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdls     less article_2020.md[20Dpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlless article_2020.md[1m [0m[0m [?2004l
+[?1049h[?1h=---
+year: "2020"
+pages: "100511"
+volume: "111"
+journal: "J. Log. Algebraic Methods Program."
+title: "A formal approach to the engineering of domain-specific distributed syst ems"
+author: 
+   - "Rocco De Nicola"
+   - "Gian Luigi Ferrari"
+   - "Rosario Pugliese"
+   - "Francesco Tiezzi"
+type: "article"
+ID: "DBLP:journals/jlap/NicolaFPT20"
+---
+[7marticle_2020.md (END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm *,.  .md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdless article_2020.md[20Dpython3 importbib.py[?2004l
+year
+
+pages
+
+volume
+
+journal
+
+title
+
+author
+
+type
+
+ID
+
+year
+
+pages
+
+number
+
+volume
+
+journal
+
+title
+
+author
+
+type
+
+ID
+
+year
+
+pages
+
+number
+
+volume
+
+journal
+
+title
+
+author
+
+type
+
+ID
+
+year
+
+publisher
+
+pages
+
+booktitle
+
+title
+
+author
+
+type
+
+ID
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hq rrm é *.md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdpython3 importbib.py[?2004l
+year|
+
+pages|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+pages|
+
+number|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+pages|
+
+number|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+publisher|
+
+pages|
+
+booktitle|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hq ppython2
+[Jpython2           python2.7         python2.7-config[A[0m[27m[24m[39Cpython2[K 3
+[J[Jpython3           python3-config    python3.8         python3.8-config[A[0m[27m[24m[39Cpython3[K[?2004l
+[JPython 3.8.5 (default, Jul 21 2020, 10:48:26) 
+[Clang 11.0.3 (clang-1103.0.32.62)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> test = "v[Kyear"
+>>> test == "year"
+True
+>>> test[K[K[K[Ktest = {}
+>>> test['year']=ma[K[K200
+>>> test['year']=200[C[C[C[C[K
+KeyboardInterrupt
+>>> 
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hpython3 importbib.py[?2004l
+year|
+
+Porca troia....
+
+pages|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+Porca troia....
+
+pages|
+
+number|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+Porca troia....
+
+pages|
+
+number|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+Porca troia....
+
+publisher|
+
+pages|
+
+booktitle|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hpython3 importbib.py[20D                    [20Drrm *, .md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdpython3 importbib.py[?2004l
+year|
+
+pages|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+pages|
+
+number|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+pages|
+
+number|
+
+volume|
+
+journal|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+year|
+
+publisher|
+
+pages|
+
+booktitle|
+
+title|
+
+author|
+
+type|
+
+ID|
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm *,m  .md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+article_2020.md		article_2020_2_.md	importbib.py
+article_2020_1_.md	biblio.bib		inproceedings_2020.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hccp *.md ../_papers[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hcp *.md ../_papers[18Dls                [16Dpython3 importbib.py[20Dls                  [18Dcp *.md ../_papers[18Dls                [16Dpython3 importbib.py[20Drm *.md             [13D[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdcp[5C ../_papers[18Dls                [16Dpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hpython3 importbib.py[20Drm *.md             [13Dcp[5C ../_papers[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+article_2020.md		article_2020_2_.md	importbib.py
+article_2020_1_.md	biblio.bib		inproceedings_2020.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm *, .md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdls     cp *.md ../_papers[18Dpython3 importbib.py[1C [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlls[?2004l
+article_2020.md		article_2020_2_.md	importbib.py
+article_2020_1_.md	biblio.bib		inproceedings_2020.md
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlless article_2020.md[1m [0m[0m [?2004l
+[?1049h[?1h=---
+year: 2020
+pages: "100511"
+volume: "111"
+journal: "J. Log. Algebraic Methods Program."
+title: "A formal approach to the engineering of domain-specific distributed syst ems"
+author: 
+   - "Rocco De Nicola"
+   - "Gian Luigi Ferrari"
+   - "Rosario Pugliese"
+   - "Francesco Tiezzi"
+type: "article"
+ID: "DBLP:journals/jlap/NicolaFPT20"
+---
+[7marticle_2020.md (END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrrm *.md[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hrm *.mdless article_2020.md[20Dls                  [18Dpython3 importbib.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Micheles-MacBook-Pro-2.local/Users/loreti/Documents/WWW/itmattersprin.github.io/script[0m[27m[24m[Jloreti@Micheles-MacBook-Pro-2 script % [K[?2004hlless article_2020.md[1m [0m[0m [?2004l
+[?1049h[?1h=---
+wps: "wp1 and wp3"
+partner: 
+   - "IMT"
+   - "UNICAM"
+year: 2020
+pages: "100511"
+volume: "111"
+journal: "J. Log. Algebraic Methods Program."
+title: "A formal approach to the engineering of domain-specific distributed syst ems"
+author: 
+   - "Rocco De Nicola"
+   - "Gian Luigi Ferrari"
+   - "Rosario Pugliese"
+   - "Francesco Tiezzi"
+type: "article"
+ID: "DBLP:journals/jlap/NicolaFPT20"
+---
+[7marticle_2020.md (END)[27m[K

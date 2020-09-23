@@ -13,5 +13,5 @@ volume: 816
 year: 2020
 link: "https://doi.org/10.1016/j.tcs.2020.02.020"
 doi: 10.1016/j.tcs.2020.02.020
-partner: IMT, UNICAM
+partner: UNICAM
 ---

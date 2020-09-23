@@ -17,23 +17,33 @@ use-site-title: false
   {% assign lastyear = paper.year %}
   <article class="paper-preview">
 	<strong>{{ paper.title }}</strong>
-	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
+	{% if paper.wps %}
+    <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}{% else %},{% endif %}{% endfor %})</span>
+  {% endif %}
+  {% if paper.partner %}
+    <span style="color:#11bbff">
+  {% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}
+  </span>
+  {% endif %}
 	<br>
+  <em>
 	{% for a in paper.author %}
 	  {{ a }},
 	{% endfor %}
+  </em>
 	<br>
 	{% if paper.container-title %} {{ paper.container-title }}. {% endif %}
 	{% if paper.published %}
 	{% if paper.editor %}
 	  Editors
 	  {% for e in paper.editor %}
-	    {{ e['given'] }} {{ e['dropping-particle'] }} {{ e['family'] }}{% if forloop.last %}.{% else %}, {% endif %}
+	    {{ e }} {% if forloop.last %}.{% else %}, {% endif %}
 	  {% endfor %}
 	<br>
 	{% endif %}
 	{% if paper.journal %} {{ paper.journal }}. {% endif %}
 	{% if paper.collection-title %} {{ paper.collection-title }}, {% endif %}
+  {% if paper.series %} {{ paper.series }}, {% endif %}
 	{% if paper.volume %}Volume {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %},{% endif%}
 	{% if paper.pages %} {{ paper.pages }}, {% endif %}
 	{{ paper.year }}.
@@ -64,6 +74,6 @@ use-site-title: false
 	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
   </article>
   <br>
-  
+
   {% endfor%}
 </div>
