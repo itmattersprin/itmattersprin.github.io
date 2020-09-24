@@ -21,8 +21,8 @@ def split(value):
     splitByAnd = value.replace('\n',' ').strip().split(" and ")
     return [v.strip() for element in splitByAnd for v in element.split(',')]
 
-def fileNameOf(target,mdmap):
-    filename = os.path.join(target,mdmap['type']+'_'+str(mdmap['year'])+".md")
+def fileNameOf(target,mdmap, inst):
+    filename = os.path.join(target,inst+'_'+mdmap['type']+'_'+str(mdmap['year'])+".md")
     counter = 0
     while os.path.exists(filename):
         counter = counter + 1
@@ -64,8 +64,8 @@ def mdmapToString(mdmap):
     return result+"---\n"
 
 
-def writeToFile(target,mdmap):
-    f = open(fileNameOf(target,mdmap),'w')
+def writeToFile(target,mdmap,inst):
+    f = open(fileNameOf(target,mdmap,inst),'w')
     f.write(mdmapToString(mdmap))
     f.close()
 
@@ -75,13 +75,13 @@ def loadAndParseBibFile(filename):
         bibtex_str = bibtex_file.read()
     return bibtexparser.loads(bibtex_str.replace(u'\xa0', u' '))
 
-def importBibliography(target,filename):
+def importBibliography(target,filename,inst=""):
     db = loadAndParseBibFile(filename)
     for entry in db.entries:
-        writeToFile(target,parseEntry(entry))
+        writeToFile(target,parseEntry(entry),inst)
 
-#importBibliography("../_papers","unipi.bib")
-#importBibliography("../_papers","imt.bib")
-#importBibliography("../_papers","uniud.bib")
-#importBibliography("../_papers","isti.bib")
-importBibliography("../_papers","gssi.bib")
+#importBibliography("../_papers","unipi.bib", "unipi")
+#importBibliography("../_papers","imt.bib", "imt")
+#importBibliography("../_papers","uniud.bib", "uniud")
+#importBibliography("../_papers","isti.bib", "isti")
+importBibliography("../_papers","gssi.bib","gssi")
