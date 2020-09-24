@@ -1,4 +1,5 @@
 import bibtexparser
+from pylatexenc.latex2text import LatexNodes2Text
 from functools import reduce
 import os.path
 
@@ -19,7 +20,7 @@ distributed
 
 def split(value):
     splitByAnd = value.replace('\n',' ').strip().split(" and ")
-    return [v.strip() for element in splitByAnd for v in element.split(',')]
+    return [LatexNodes2Text().latex_to_text(v.strip()) for element in splitByAnd for v in element.split(',')]
 
 def fileNameOf(target,mdmap, inst):
     filename = os.path.join(target,inst+'_'+mdmap['type']+'_'+str(mdmap['year'])+".md")
@@ -83,5 +84,5 @@ def importBibliography(target,filename,inst=""):
 #importBibliography("../_papers","unipi.bib", "unipi")
 #importBibliography("../_papers","imt.bib", "imt")
 #importBibliography("../_papers","uniud.bib", "uniud")
-#importBibliography("../_papers","isti.bib", "isti")
+importBibliography("../_papers","isti.bib", "isti")
 importBibliography("../_papers","gssi.bib","gssi")
