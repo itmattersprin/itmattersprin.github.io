@@ -48,6 +48,9 @@ use-site-title: false
 	{% if paper.pages %} {{ paper.pages }}, {% endif %}
 	{{ paper.year }}.
 	{% if paper.URL %} <a href="{{ paper.URL }}" target="new"><i class="fa fa-link"></i></a> {% endif %}
+	<br/>
+		  {% if paper.oalink %}<a href="{{ paper.oaline }}">
+	  {% if paper.oa %}Open Access: {{ paper.oa }}{% else %}{{ paper.oalink }}{% endif %}</a>{% endif %}
 	{% else %}
 	{% if paper.journal %} {{ paper.journal }}. {% endif %}
 	{% if paper.collection-title %} {{ paper.collection-title }}. {% endif %}
