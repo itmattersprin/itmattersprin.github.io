@@ -23,12 +23,12 @@ def split(value):
     return [LatexNodes2Text().latex_to_text(v.strip()) for element in splitByAnd for v in element.split(',')]
 
 def fileNameOf(target,mdmap, inst):
-    filename = os.path.join(target,inst+'_'+mdmap['type']+'_'+str(mdmap['year'])+".md")
+    filename = os.path.join(target,mdmap['type']+'_'+str(mdmap['year'])+".md")
     counter = 0
     while os.path.exists(filename):
         counter = counter + 1
-        filename = os.path.join(target,inst+'_'+mdmap['type']+'_'+mdmap['year']+"_"+str(counter)+"_"+".md")
-    return filename
+        filename = os.path.join(target,mdmap['type']+'_'+mdmap['year']+"_"+str(counter)+"_"+".md")
+    return inst+'_'+filename
 
 
 def handleValue(mdmap,key,value):
