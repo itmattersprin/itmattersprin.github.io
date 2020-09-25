@@ -1,0 +1,25 @@
+- title: "Open Problems in Choreographic Development of Message-Passing Applications"
+  slides: "asyde20.pdf"
+  date: "September 15, 2020"
+  descr: "Invited talk at ASYDE 2020"
+
+- title: "Choreographic Development of Message-Passing Applications - A Tutorial"
+  slides: "coordination_tutorial20.pdf"
+  date: "June 15, 2020"
+  descr: "A tutorial at DisCoTec 2020"
+
+- title: "A Choreography-Driven Approach to APIs: the OpenDXL Case Study"
+  slides: "coordination20.pdf"
+  descr: "A presentation at COORDINATION 2020"
+  date: "June 16, 2020"
+
+- title: "Behavioural APIs & choreographic development"
+  slides: "lisbon20.pdf"
+  descr: "A talk at FCUL"
+  date: "February 14, 2020"
+
+- title: "Behavioural APIs & choreographic development"
+  slides: "lisbon20.pdf"
+  descr: "A talk at NOVA LINCS"
+  date: "February 26, 2020"
+
