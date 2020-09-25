@@ -5,6 +5,7 @@ docs_list_title: Publications
 use-site-title: false
 ---
 
+
 # The case studies of {{ site.title }}
 
 To validate the techniques, methodologies, and tools developed in the
