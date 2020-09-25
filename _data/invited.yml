@@ -1,11 +1,11 @@
 - title: "A story of monitorability (Invited talk)"
-  descr: "Colloquium Jacques Morgenstern, INRIA Sophia Antipolis, 10 September 2019."
-  Speaker: Luca Aceto
-
+  descr: "Colloquium Jacques Morgenstern, INRIA Sophia Antipolis"
+  date: "10/09/2019"
+  speaker: Luca Aceto
 
 - title: "Verification of Data in Space and Time (Invited Talk)"
   speaker: "Mieke Massink"
-  date: 07-08/10/2019
+  date: "07/10/2019"
   descr: "8th International Symposium “From Data to Models and Back (DataMod). Porto, Portogallo"
 
 
@@ -21,7 +21,7 @@
 
 - title: "Programming Collective Adaptive Systems by relying on Attribute-based Communication"
   descr: "Meeting of IFIP WG2.2 Formalization of Programming Concepts Vienna, Austria"
-  date: "23-25 Settembre 2019"
+  date: "23/09/2019"
   speaker: "Rocco De Nicola"
 
 - title: "An abstract distributed middleware for transactions over heterogeneous stores"
@@ -56,21 +56,15 @@
 
 - title: "Embedding RCC8D in the Collective Spatial Logic CSLCS"
   descr: "Rocco65: A Symposium in honor of Rocco De Nicola on the occasion of his 65th birthday. IMT Lucca"
-  date: "1-2/07/2019"
+  date: "1/07/2019"
   speaker: "Diego Latella"
-
-- title: "Verification of Data in Space and Time (Invited Talk)"
-  descr: "8th International Symposium: From Data to Models and Back (DataMod). Porto, Portogallo"
-  date: "07-08/10/2019"
-  speaker: Mieke Massink.
-
 
 - title: "Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited"
   descr: "22th International Conference on Coordination Models and Languages, in the context of DisCoTec 2020"
-  descr: "15-19/06/2020"
+  date: "15/06/2020"
   speaker: "Mieke Massink"
 
 - title: "Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego"
   descr: "40th IFIP WG6.1 International Conference on FORmal Techniques for Distributed Objects (FORTE), in the context of DisCoTec 2020"
-  date:  "15-19/06/2020"
+  date:  "15/06/2020"
   speaker: "Davide Basile"
