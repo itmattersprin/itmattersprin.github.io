@@ -16,8 +16,8 @@ use-site-title: false
 </div>
 
 <h2>Outreach & dissemination talks</h2>
-{% assign invited = site.invited_talks.list | sort: 'date' | reverse %}
+{% assign invited = site.data.invited | sort: 'date' | reverse %}
 {% for n in invited %}
 - {{ n.title }}
-  <span markdown="1" style="font-size:.75em"><br/>{{ n.speaker }}. {{ n.date | date: '%B %d, %Y' }}.
-  {% if n.slides %}[Slides](invited_talks/{{ n.slides }}){% endif %}</span>{% endfor %}
+  <span markdown="1" style="font-size:.75em"><br/>{{ n.speaker}}. {{ n.date | date: '%B %d, %Y' }}.
+  {% if n.slides %}[Slides](invited_talks/{{ n.slides }}){% endif %}</span><br/>{% endfor %}
