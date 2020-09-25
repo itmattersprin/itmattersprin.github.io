@@ -8,7 +8,7 @@ pages: "11--51"
 number: "1"
 volume: "12"
 journal: "J. Formalized Reasoning"
-title: "{LF+} in Coq for "fast and loose" reasoning"
+title: "LF+ in Coq for fast and loose reasoning"
 author: 
    - "Fabio Alessi"
    - "Alberto Ciaffaglione"
