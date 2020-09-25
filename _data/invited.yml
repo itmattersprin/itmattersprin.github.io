@@ -1,0 +1,76 @@
+- title: "A story of monitorability (Invited talk)"
+  descr: "Colloquium Jacques Morgenstern, INRIA Sophia Antipolis, 10 September 2019."
+  Speaker: Luca Aceto
+
+
+- title: "Verification of Data in Space and Time (Invited Talk)"
+  speaker: "Mieke Massink"
+  date: 07-08/10/2019
+  descr: "8th International Symposium “From Data to Models and Back (DataMod). Porto, Portogallo"
+
+
+- title: "Verification of Data in Space and Time"
+  descr: "Centre Universitaire d’Informatique – Université de Genève"
+  date: "30/01/2020"
+  speaker: "Mieke Massink"
+
+- title: "How far is your program from mine?"
+  descr: "Meeting of IFIP WG1.3 Foundations of System Specification Massa Marittima, Italy"
+  date: "13 - 17 January 2020"
+  speaker: "Michele Loreti"
+
+- title: "Programming Collective Adaptive Systems by relying on Attribute-based Communication"
+  descr: "Meeting of IFIP WG2.2 Formalization of Programming Concepts Vienna, Austria"
+  date: "23-25 Settembre 2019"
+  speaker: "Rocco De Nicola"
+
+- title: "An abstract distributed middleware for transactions over heterogeneous stores"
+  date: "Settembre 2019"
+  descr: "ICTCS 2019, Como, Italy"
+  speaker: "Luca Geatti"
+
+- title: "Securing the Art Market with Distributed Public Ledgers"
+  descr: "Distributed Ledger Technologies @ ITASEC, Ancona, Italy"
+  date: "Febbraio 2020"
+  speaker: "D Tosone"
+
+- title: "Closure hyperdoctrines"
+  descr: "EWSCS'20, Palmse, Estonia"
+  date: "marzo 2020"
+  speaker: "D Castelnovo"
+
+- title: "Towards a formal model for composable container systems"
+  descr: "35th Annual ACM Symposium on Applied Computing, Brno"
+  date: "aprile 2020"
+  speaker: "M Peressotti"
+
+- title: "Computing Embeddings of Directed Bigraphs"
+  descr: "International Conference on Graph Transformation, Bergen (Norvegia)"
+  date: "giugno 2020"
+  speaker: "M Peressotti"
+
+- title: "Innovating Medical Image Analysis via Spatial Logics"
+  descr: "Colloquium in Honour of Stefania Gnesi on the occasion of her 65th birthday, in the context of the 3rd World Congress on Formal Methods. Porto, Portogallo"
+  date: "08/10/2019"
+  speaker: Mieke Massink
+
+- title: "Embedding RCC8D in the Collective Spatial Logic CSLCS"
+  descr: "Rocco65: A Symposium in honor of Rocco De Nicola on the occasion of his 65th birthday. IMT Lucca"
+  date: "1-2/07/2019"
+  speaker: "Diego Latella"
+
+- title: "Verification of Data in Space and Time (Invited Talk)"
+  descr: "8th International Symposium: From Data to Models and Back (DataMod). Porto, Portogallo"
+  date: "07-08/10/2019"
+  speaker: Mieke Massink.
+
+
+- title: "Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited"
+  descr: "22th International Conference on Coordination Models and Languages, in the context of DisCoTec 2020"
+  descr: "15-19/06/2020"
+  speaker: "Mieke Massink"
+
+- title: "Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego"
+  descr: "40th IFIP WG6.1 International Conference on FORmal Techniques for Distributed Objects (FORTE), in the context of DisCoTec 2020"
+  date:  "15-19/06/2020"
+  speaker: "Davide Basile"
