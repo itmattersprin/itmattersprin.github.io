@@ -1,4 +1,7 @@
 ---
+wps: 
+   - "1"
+   - "2"
 partner: 
    - "IMT"
 year: 2020

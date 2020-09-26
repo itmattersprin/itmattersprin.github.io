@@ -1,12 +1,15 @@
 ---
 partner: 
    - "IMT"
+   - "UNIPI"
+wps: 
+   - "1"
 year: 2020
 publisher: "Springer"
 pages: "358--381"
 volume: "1221"
 series: "Communications in Computer and Information Science"
-booktitle: "{ICISSP} (Revised Selected Papers)"
+booktitle: "ICISSP (Revised Selected Papers)"
 title: "Analysing the Provenance of IoT Data"
 author: 
    - "Chiara Bodei"

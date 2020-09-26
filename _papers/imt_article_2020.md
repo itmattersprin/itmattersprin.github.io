@@ -2,6 +2,8 @@
 partner: 
    - "IMT"
    - "UNICAM"
+wps: 
+   - "1"
 year: 2020
 pages: "100511"
 volume: "111"

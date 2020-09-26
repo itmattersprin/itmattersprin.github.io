@@ -1,6 +1,8 @@
 ---
 partner: 
    - "IMT"
+wps: 
+   - "3"
 year: 2020
 pages: "437--455"
 number: "4"

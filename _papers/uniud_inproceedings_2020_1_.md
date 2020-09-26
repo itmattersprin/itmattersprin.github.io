@@ -1,4 +1,6 @@
 ---
+wps: 
+   - "3"
 partner: 
    - "UNIUD"
 url: "http://ceur-ws.org/Vol-2580/DLT\_2020\_paper\_4.pdf"

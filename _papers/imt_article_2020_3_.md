@@ -1,6 +1,9 @@
 ---
 partner: 
    - "IMT"
+   - "UNIPI"
+wps: 
+   - "1"
 publisher: "Springer"
 year: 2020
 pages: "1--37"

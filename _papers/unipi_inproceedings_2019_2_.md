@@ -1,6 +1,8 @@
 ---
 partner: 
    - "UNIPI"
+wps: 
+   - "1"
 doi: "10.4230/LIPIcs.FSTTCS.2019.42"
 url: "https://doi.org/10.4230/LIPIcs.FSTTCS.2019.42"
 year: 2019

@@ -1,4 +1,7 @@
 ---
+wps: 
+   - "3"
+   - "4"
 partner: 
    - "UNIUD"
 url: "http://ceur-ws.org/Vol-2504/paper20.pdf"
