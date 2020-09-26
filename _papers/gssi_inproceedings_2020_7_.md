@@ -14,7 +14,7 @@ pages: "20--36"
 volume: "12134"
 series: "Lecture Notes in Computer Science"
 booktitle: "Coordination Models and Languages - 22nd {IFIP} {WG} 6.1 International Conference, {COORDINATION} 2020, Held as Part of the 15th International Federated Conference on Distributed Computing Techniques, DisCoTec 2020, Valletta, Malta, June 15-19, 2020, Proceedings"
-title: "Choreographic Development of Message-Passing Applications - {A} Tutorial"
+title: "Choreographic Development of Message-Passing Applications - A Tutorial"
 editor: 
    - "Simon Bliudze"
    - "Laura Bocchi"

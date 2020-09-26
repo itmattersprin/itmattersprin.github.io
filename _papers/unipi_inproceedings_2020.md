@@ -11,7 +11,7 @@ pages: "488--498"
 volume: "1266"
 series: "Communications in Computer and Information Science"
 booktitle: "Quality of Information and Communications Technology - 13th International Conference, {QUATIC} 2020, Faro, Portugal, September 9-11, 2020, Proceedings"
-title: "An Experience with the Application of Three {NLP} Tools for the Analysis of Natural Language Requirements"
+title: "An Experience with the Application of Three NLP Tools for the Analysis of Natural Language Requirements"
 editor: 
    - "Martin J. Shepperd"
    - "Fernando Brito e Abreu"

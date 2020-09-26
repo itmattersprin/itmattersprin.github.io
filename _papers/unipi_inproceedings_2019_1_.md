@@ -13,7 +13,7 @@ pages: "170--190"
 volume: "11665"
 series: "Lecture Notes in Computer Science"
 booktitle: "Models, Languages, and Tools for Concurrent and Distributed Programming - Essays Dedicated to Rocco De Nicola on the Occasion of His 65th Birthday"
-title: "Data-Driven Choreographies {\'{a}} la Klaim"
+title: "Data-Driven Choreographies a la Klaim"
 editor: 
    - "Michele Boreale"
    - "Flavio Corradini"
