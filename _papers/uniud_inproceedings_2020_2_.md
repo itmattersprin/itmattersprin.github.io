@@ -1,25 +1,25 @@
 ---
 wps: 
    - "1"
-partner: 
-   - "UNIUD"
+   - "2"
+   - "5"
+series: "SAC'20"
+location: "Brno, Czech Republic"
+booktitle: "Proceedings of the 35th Annual ACM Symposium on Applied Computing"
 doi: "10.1145/3341105.3374121"
 url: "https://doi.org/10.1145/3341105.3374121"
+publisher: "ACM"
+isbn: "9781450368667"
 year: 2020
-publisher: "{ACM}"
-pages: "173--175"
-booktitle: "{SAC} '20: The 35th {ACM/SIGAPP} Symposium on Applied Computing, online event, [Brno, Czech Republic], March 30 - April 3, 2020"
-title: "Towards a formal model for composable container systems"
-editor: 
-   - "Chih-Cheng Hung"
-   - "Tomás Cerný"
-   - "Dongwan Shin"
-   - "Alessio Bechini"
+title: "Towards a Formal Model for Composable Container Systems"
 author: 
-   - "Fabio Burco"
-   - "Marino Miculan"
-   - "Marco Peressotti"
+   - "Burco"
+   - "Fabio"
+   - "Miculan"
+   - "Marino"
+   - "Peressotti"
+   - "Marco"
 type: "inproceedings"
-id: "DBLP:conf/sac/BurcoMP20"
+id: "bmp:sac20"
 published: "true"
 ---

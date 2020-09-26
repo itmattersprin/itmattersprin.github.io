@@ -68,3 +68,13 @@
   descr: "40th IFIP WG6.1 International Conference on FORmal Techniques for Distributed Objects (FORTE), in the context of DisCoTec 2020"
   date:  "15/06/2020"
   speaker: "Davide Basile"
+
+- title: "Variability meets Security: Quantitative Security Modeling and Analysis of Highly Customizable Attack Scenarios"
+  descr: "40th IFIP WG6.1 International Conference on FORmal Techniques for Distributed Objects (FORTE), in the context of DisCoTec 2020"
+  speaker: "Maurice ter beek"
+  date: "February 5, 2020"
+  
+- title: "Team Automata@Work: On Safe Communication"
+  speaker: "Maurice ter Beek"
+  date: "June 16, 2020"
+  descr: "VaMoS"
