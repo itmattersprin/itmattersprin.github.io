@@ -1,6 +1,8 @@
 ---
 wps: 
    - "5"
+partner: 
+   - "UNIUD"
 type: "inproceedings"
 bibsource: "dblp computer science bibliography, https://dblp.org"
 biburl: "https://dblp.org/rec/conf/itasec/MiculanT20.bib"

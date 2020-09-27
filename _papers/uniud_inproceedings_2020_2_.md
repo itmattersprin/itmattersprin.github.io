@@ -3,6 +3,8 @@ wps:
    - "1"
    - "2"
    - "5"
+partner: 
+   - "UNIUD"
 series: "SAC'20"
 location: "Brno, Czech Republic"
 booktitle: "Proceedings of the 35th Annual ACM Symposium on Applied Computing"

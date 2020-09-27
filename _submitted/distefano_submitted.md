@@ -4,8 +4,8 @@ wps:
   - 3
   - 4
 partner:
-  - gssi
-  - imt
+  - GSSI
+  - IMT
 author:
   - "Luca Di Stefano"
   - "Omar Inverso"

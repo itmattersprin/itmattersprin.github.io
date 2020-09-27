@@ -5,7 +5,9 @@ docs_list_title: Publications
 use-site-title: false
 ---
 
+
 # Publications
+Click [here](bysite) to sort by partners.
 
 {% assign items = site.papers | sort: 'year' | reverse %}
 
@@ -18,7 +20,7 @@ use-site-title: false
   <article class="paper-preview">
 	<strong>{{ paper.title }}</strong>
 	{% if paper.wps %}
-    <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}{% else %},{% endif %}{% endfor %})</span>
+    <span style="color:#f98811">({% for w in paper.wps %}WP{{w}}{% if forloop.last %}{% else %}, {% endif %}{% endfor %})</span>
   {% endif %}
   {% if paper.partner %}
     <span style="color:#11bbff">
@@ -76,7 +78,7 @@ use-site-title: false
 	{% endfor %}
 	<br/>
     {{ paper.note }}
-	{% if paper.wps %} <span style="color:#f98811">(WP {% for w in paper.wps %} {{ w }}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
+	{% if paper.wps %} <span style="color:#f98811">({% for w in paper.wps %}WP{{w}}{% if forloop.last %}) <span style="color:#11bbff">{% for p in paper.partner %}{{ p }}{% if forloop.last %}{% else %}, {% endif %} {% endfor %}</span>{% else %}, {% endif %}{% endfor %}</span>{% endif %}
   </article>
   <br/>
   {% endfor%}

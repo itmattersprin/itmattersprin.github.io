@@ -1,5 +1,5 @@
 ---
-partner: gssi
+partner: GSSI
 wps:
   - 4
 type: article

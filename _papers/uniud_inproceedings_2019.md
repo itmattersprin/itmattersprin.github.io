@@ -1,6 +1,8 @@
 ---
 wps: 
    - "3"
+partner: 
+   - "UNIUD"
 pdf: "http://ceur-ws.org/Vol-2504/paper20.pdf"
 year: 2019
 publisher: "CEUR-WS.org"
