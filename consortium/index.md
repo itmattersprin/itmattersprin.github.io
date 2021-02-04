@@ -15,8 +15,8 @@ use-site-title: false
 
 <strong>IMT Lucca<strong/>
 <ul>
-<li>leader: Rocco de Nicola</li>
-<li>contact: <a href="mailto:rocco.denicola@imtlucca.it">Rocco de Nicola</a></li>
+<li>leader: Rocco De Nicola</li>
+<li>contact: <a href="mailto:rocco.denicola@imtlucca.it">Rocco De Nicola</a></li>
 </ul>
 <br/>
 
