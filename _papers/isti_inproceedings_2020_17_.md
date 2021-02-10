@@ -16,7 +16,7 @@ editor:
    - "Tiziana Margaria"
    - "Bernhard Steffen"
 author: 
-   - "Davide DB Basile"
+   - "Davide Basile"
    - "Maurice H. ter Beek"
    - "Alessandro Fantechi"
    - "Alessio Ferrari"
