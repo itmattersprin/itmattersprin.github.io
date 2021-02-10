@@ -6,7 +6,7 @@ type: "inproceedings"
 partner: 
    - "ISTI"
 note: "to appear"
-year: 2020
+year: "2020"
 publisher: "Springer"
 volume: "12478"
 series: "Lecture Notes in Computer Science"
@@ -16,7 +16,7 @@ editor:
    - "Tiziana Margaria"
    - "Bernhard Steffen"
 author: 
-   - "Davide Basile"
+   - "Davide DB Basile"
    - "Maurice H. ter Beek"
    - "Alessandro Fantechi"
    - "Alessio Ferrari"
