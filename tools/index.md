@@ -9,12 +9,11 @@ use-site-title: false
 
 <h1> Tools </h1>
 
-<p>
+<!--p>
 VoxLogicA: the Voxel-based Logical Analyser. VoxLogicA is a model checker dedicated to classifying pixels/voxels in 2D/3D images, based on their spatial logical properties, such as proximity, distance, reachability, texture, colour, etc. 
 </p>
-
 <p>Github: <a href="https://www.github.com/vincenzoml/voxlogica">www.github.com/vincenzoml/voxlogica</a></p>
-<p>Official site: <a href="https://www.voxlogica.org">www.voxlogica.org</a></p>
+<p>Official site: <a href="https://www.voxlogica.org">www.voxlogica.org</a></p-->
 
 
 <div class="tools-list">
