@@ -8,6 +8,7 @@ partner:
 year: 2020
 publisher: "Springer"
 volume: "12478"
+pages: "467--485"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of the 9th International Symposium on Leveraging Applications  of Formal Methods, Verification and Validation: Applications (ISoLA 2020), part III"
 title: "Designing a Demonstrator of Formal Methods for Railways Infrastructure Managers"
