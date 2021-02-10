@@ -5,8 +5,6 @@ description: "The Contract Automata Tool is an ongoing research activity about i
 contact: "davide.basile@isti.cnr.it"
 url: "https://github.com/davidebasile/ContractAutomataTool"
 ---
-
----
 date: "1/4/2019"
 name: "DummyTool"
 description: "this is a dummy description of a dummy tool."
