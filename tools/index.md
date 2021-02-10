@@ -21,7 +21,7 @@ VoxLogicA: the Voxel-based Logical Analyser. VoxLogicA is a model checker dedica
     <h2> {{ n.name }} {% if n.date %} ({{ n.date | date: '%B %d, %Y' }}) {% endif %}</h2>
     <p>{{ n.description }}
 		<!--{% if n.url %}<br/>Available <a href="{{ n.url }}">here</a> {% endif %}-->
-		{% if n.github %}<br/>Available <a href="{{ n.github }}>here</a> {% endif %}
+		{% if n.github %}<br/>Available <a href="{{ n.github }}">here</a> {% endif %}
 		{% if n.contact %}<br/><a href="mailto:{{ n.contact }}">Contact</a>. {% endif %}
     </p>
   {% endfor %}
