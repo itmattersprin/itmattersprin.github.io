@@ -1,5 +1,5 @@
 ---
-firstname: Maurice
+firstname: Maurice H.
 secondname: ter Beek
 affiliation: ISTI
 email: "maurice.terbeek@isti.cnr.it"
