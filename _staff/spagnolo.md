@@ -1,5 +1,5 @@
 ---
-firstname: Giorgio O.
+firstname: Giorgio
 secondname: Spagnolo
 affiliation: ISTI
 email: "giorgio.oronzo.spagnolo@isti.cnr.it"
