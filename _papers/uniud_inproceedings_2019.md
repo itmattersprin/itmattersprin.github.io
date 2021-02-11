@@ -9,7 +9,7 @@ publisher: "CEUR-WS.org"
 pages: "171-183"
 volume: "2504"
 series: "CEUR Workshop Proceedings"
-booktitle: "Proc. 20th Italian Conference on Theoretical Computer Science, ICTCS 2019"
+booktitle: "Proceedings of the 20th Italian Conference on Theoretical Computer Science (ICTCS 2019)"
 title: "An Abstract Distributed Middleware for Transactions over Heterogeneous Stores"
 editor: 
    - "Alessandra Cherubini"
