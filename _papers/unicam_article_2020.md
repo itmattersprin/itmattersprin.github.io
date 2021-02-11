@@ -1,7 +1,7 @@
 ---
 partners: "IMT and UNICAM"
 wps: 
-   - "WP3"
+   - "3"
 doi: "10.1016/j.scico.2020.102428"
 url: "https://doi.org/10.1016/j.scico.2020.102428"
 year: 2020
