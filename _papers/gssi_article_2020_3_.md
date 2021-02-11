@@ -10,8 +10,8 @@ author:
    - "Omar Inverso"
    - "Catia Trubiani"
 year: 2020
-journal: "International Journal on Software Tools for Technology Transfer (STTT)"
-note: "To appear"
+journal: "Information and Software Technology"
+volume: "127"
 title: "Automated Model-based Performance Analysis of Software Product Lines under Uncertainty"
 id: "ait20"
 ---
