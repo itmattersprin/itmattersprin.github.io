@@ -2,14 +2,14 @@
 wps: 
    - "1"
    - "2"
-oalink: "https://link.springer.com/chapter/10.1007/978-3-030-45234-6\_12"
+oalink: "https://link.springer.com/chapter/10.1007/978-3-030-45234-6_12"
 oa: "ETAPS is open access"
 published: "true"
 type: "inproceedings"
 partner: 
    - "ISTI"
-doi: "10.1007/978-3-030-45234-6\_12"
-url: "https://doi.org/10.1007/978-3-030-45234-6\_12"
+doi: "10.1007/978-3-030-45234-6_12"
+url: "https://doi.org/10.1007/978-3-030-45234-6_12"
 year: 2020
 publisher: "Springer"
 pages: "245-265"
