@@ -10,7 +10,7 @@ publisher: "Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik"
 pages: "42:1-42:15"
 volume: "150"
 series: "LIPIcs"
-booktitle: "39th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, FSTTCS 2019"
+booktitle: "Proceedings of the 39th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2019)"
 title: "A Categorical Account of Replicated Data Types"
 editor: 
    - "Arkadev Chattopadhyay"
