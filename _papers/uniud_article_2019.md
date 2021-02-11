@@ -10,7 +10,7 @@ timestamp: "Thu, 24 Sep 2020 13:05:55 +0200"
 doi: "10.6092/issn.1972-5787/9757"
 url: "https://doi.org/10.6092/issn.1972-5787/9757"
 year: 2019
-pages: "11--51"
+pages: "11-51"
 number: "1"
 volume: "12"
 journal: "J. Formaliz. Reason."
