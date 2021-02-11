@@ -7,7 +7,7 @@ wps:
    - "2"
 year: 2020
 publisher: "Springer"
-pages: "233--255"
+pages: "233-255"
 volume: "12065"
 series: "Lecture Notes in Computer Science"
 booktitle: "From Lambda Calculus to Cybersecurity Through Program Analysis"
