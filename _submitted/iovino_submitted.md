@@ -1,5 +1,6 @@
 ---
-partner: GSSI
+partner:
+  - GSSI
 type: article
 author:
   - "Ludovico Iovino"
