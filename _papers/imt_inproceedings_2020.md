@@ -6,7 +6,7 @@ wps:
    - "1"
 year: 2020
 publisher: "{ACM}"
-pages: "141--152"
+pages: "141-152"
 booktitle: "FormaliSE@ICSE"
 title: "Verification of Privacy-Enhanced Collaborations"
 author: 
