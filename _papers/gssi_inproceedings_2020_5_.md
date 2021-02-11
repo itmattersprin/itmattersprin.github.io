@@ -5,7 +5,8 @@ published: "true"
 type: "inproceedings"
 partner: 
    - "GSSI"
-note: "To appear"
+pages: "243-260"
+volume: "12477"
 year: 2020
 publisher: "Springer"
 series: "Lecture Notes in Computer Science"
