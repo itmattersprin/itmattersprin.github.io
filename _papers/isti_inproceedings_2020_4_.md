@@ -12,7 +12,7 @@ doi: "10.1007/978-3-030-45234-6\_12"
 url: "https://doi.org/10.1007/978-3-030-45234-6\_12"
 year: 2020
 publisher: "Springer"
-pages: "245--265"
+pages: "245-265"
 volume: "12076"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of the 23rd International Conference on Fundamental Approaches to Software Engineering (FASE 2020), Held as Part of the European Joint  Conferences on Theory and Practice of Software (ETAPS 2020)"
