@@ -7,7 +7,7 @@ wps:
    - "2"
 year: 2020
 publisher: "CEUR-WS.org"
-pages: "82--92"
+pages: "82-92"
 volume: "2597"
 series: "CEUR Workshop Proceedings"
 booktitle: "ITASEC"
