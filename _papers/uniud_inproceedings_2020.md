@@ -8,10 +8,10 @@ doi: "10.1007/978-3-030-51372-6\_3"
 url: "https://doi.org/10.1007/978-3-030-51372-6\_3"
 year: 2020
 publisher: "Springer"
-pages: "38--56"
+pages: "38-56"
 volume: "12150"
 series: "Lecture Notes in Computer Science"
-booktitle: "Graph Transformation - 13th International Conference, {ICGT} 2020"
+booktitle: "Graph Transformation - 13th International Conference, ICGT 2020"
 title: "Computing Embeddings of Directed Bigraphs"
 editor: 
    - "Fabio Gadducci"
