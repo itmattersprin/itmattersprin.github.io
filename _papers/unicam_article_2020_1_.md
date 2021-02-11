@@ -1,7 +1,7 @@
 ---
 partners: "UNICAM"
 wps: 
-   - "WP2"
+   - "2"
 doi: "10.1016/j.tcs.2020.02.020"
 url: "https://doi.org/10.1016/j.tcs.2020.02.020"
 year: 2020
