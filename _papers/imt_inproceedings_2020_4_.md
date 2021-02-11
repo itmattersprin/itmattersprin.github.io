@@ -7,7 +7,7 @@ wps:
    - "2"
 year: 2020
 publisher: "IEEE"
-pages: "262--276"
+pages: "262-276"
 booktitle: "CSF"
 title: "Provably Secure Isolation for Interruptible Enclaved Execution on Small Microprocessors"
 author: 
