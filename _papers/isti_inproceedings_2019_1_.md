@@ -5,8 +5,8 @@ published: "true"
 type: "inproceedings"
 partner: 
    - "ISTI"
-doi: "10.1007/978-3-030-30985-5\_7"
-url: "https://doi.org/10.1007/978-3-030-30985-5\_7"
+doi: "10.1007/978-3-030-30985-5_7"
+url: "https://doi.org/10.1007/978-3-030-30985-5_7"
 year: 2019
 publisher: "Springer"
 pages: "85-109"
