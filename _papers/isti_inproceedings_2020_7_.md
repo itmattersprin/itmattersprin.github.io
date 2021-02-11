@@ -6,6 +6,8 @@ type: "inproceedings"
 partner: 
   - "ISTI"
 year: 2020
+doi: "10.1007/978-3-030-61362-4_21"
+url: "http://dx.doi.org/10.1007/978-3-030-61362-4_21"
 publisher: "Springer"
 volume: "12476"
 pages: "368-384"
