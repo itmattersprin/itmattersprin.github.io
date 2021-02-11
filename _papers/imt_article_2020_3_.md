@@ -6,7 +6,7 @@ wps:
    - "1"
 publisher: "Springer"
 year: 2020
-pages: "1--37"
+pages: "1-37"
 journal: "Journal of Automated Reasoning"
 author: 
    - "Costa"
