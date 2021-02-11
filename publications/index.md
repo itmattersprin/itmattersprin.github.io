@@ -54,7 +54,7 @@ Click [here](bysite) to sort by partners.
 		  {% if paper.oalink %}<a href="{{ paper.oaline }}">
 	  {% if paper.oa %}Open Access: {{ paper.oa }}{% else %}{{ paper.oalink }}{% endif %}</a>{% endif %}
 	{% else %}
-	{% if paper.journal %} {{ paper.journal }}. {% endif %}
+	{% if paper.journal %} {{ paper.journal }}{% endif %}
 	{% if paper.collection-title %} {{ paper.collection-title }}. {% endif %}
 	{% if paper.note %}{{ paper.note }}.{% else %}boom {{paper.title}}To appear.{% endif%}
 	{% endif %}
