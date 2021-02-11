@@ -12,7 +12,7 @@ year: 2020
 publisher: "CEUR-WS.org"
 volume: "2580"
 series: "CEUR Workshop Proceedings"
-booktitle: "Proceedings of the 3rd {D}istributed {L}edger {T}echnology Workshop (DLT 2020)"
+booktitle: "Proceedings of the 3rd Distributed Ledger Technology Workshop (DLT 2020)"
 title: "Securing the Art Market with Distributed Public Ledgers"
 editor: 
    - "Franco Chiaraluce"
