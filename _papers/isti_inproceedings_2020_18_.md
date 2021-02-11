@@ -8,7 +8,7 @@ partner:
 year: 2020
 publisher: "Springer"
 volume: "12476"
-pages: "467--485"
+pages: "368-384"
 series: "Lecture Notes in Computer Science"
 title: "30 Years of Simulation-Based Quantitative Analysis Tools: A Comparison Experiment Between Möbius and Uppaal SMC"
 booktitle:  "Proceedings of the 9th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation: Verification Principles (ISoLA 2020), part I"
