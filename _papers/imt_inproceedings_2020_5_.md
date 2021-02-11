@@ -5,7 +5,7 @@ wps:
    - "1"
 year: 2020
 publisher: "Springer"
-pages: "243--260"
+pages: "243-260"
 volume: "12134"
 series: "Lecture Notes in Computer Science"
 booktitle: "COORDINATION"
