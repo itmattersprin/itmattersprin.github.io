@@ -44,10 +44,10 @@ Click [here](bysite) to sort by partners.
 	<br>
 	{% endif %}
 	{% if paper.journal %} {{ paper.journal }}{% endif %}
-	{% if paper.collection-title %} {{ paper.collection-title }}, {% endif %}
-  {% if paper.series %} {{ paper.booktitle }}. {{ paper.series }},{% else %}{{ paper.booktitle }},{% endif %}
+	{% if paper.collection-title %}{{ paper.collection-title }}, {% endif %}
+  {% if paper.series %}{{ paper.booktitle }}. {{ paper.series }},{% else %}{{ paper.booktitle }},{% endif %}
 	{% if paper.volume %}Volume {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %},{% endif%}
-	{% if paper.pages %} {{ paper.pages }}, {% endif %}
+	{% if paper.pages %}{{ paper.pages }}, {% endif %}
 	{{ paper.year }}.
 	{% if paper.URL %} <a href="{{ paper.URL }}" target="new"><i class="fa fa-link"></i></a> {% endif %}
 	<br/>
