@@ -43,7 +43,7 @@ Click [here](bysite) to sort by partners.
 	  {% endfor %}
 	<br>
 	{% endif %}
-	{% if paper.journal %} {{ paper.journal }} {% endif %}
+	{% if paper.journal %} {{ paper.journal }}{% endif %}
 	{% if paper.collection-title %} {{ paper.collection-title }}, {% endif %}
   {% if paper.series %} {{ paper.booktitle }}. {{ paper.series }}, {% else %} {{ paper.booktitle }}, {% endif %}
 	{% if paper.volume %}Volume {{ paper.volume }}{% if paper.issue %} ({{ paper.issue }}){% endif %},{% endif%}
