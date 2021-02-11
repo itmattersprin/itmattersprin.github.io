@@ -7,6 +7,8 @@ type: "inproceedings"
 partner: 
   - "ISTI"
 year: 2020
+doi: "10.1007/978-3-030-64276-1_11"
+url: "http://dx.doi.org/10.1007/978-3-030-64276-1_11"
 publisher: "Springer"
 volume: "12545"
 pages: "200-220"
@@ -23,5 +25,3 @@ author:
   - "Jetty Kleijn"
 id: "BHK20b"
 ---
-
- and  and 
