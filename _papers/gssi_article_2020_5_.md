@@ -8,9 +8,9 @@ partner:
 author: 
    - "Roberto Guanciale"
    - "Emilio Tuosto"
-year: 2020
+year: 2021
 journal: "Sci. Comput. Program."
-note: "To appear"
+volume: "202"
 title: "PomCho: a tool chain for choreographic design"
-id: "gt20"
+id: "gt21"
 ---
