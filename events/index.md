@@ -13,7 +13,7 @@ use-site-title: false
 <div class="events-list">
 <ul>
   {% for n in items %}
-    <li> {{ n.date | date_to_long_string }} - {{ n.enddate | enddate_to_long_string }} {{ n.name }}
+    <li> {{ n.date | date_to_long_string }} - {{ n.enddate | date_to_long_string }} {{ n.name }}
     {% if n.wp %}
 	  <a href="{{ n.wp }}">More here</a>
     {% endif %}
