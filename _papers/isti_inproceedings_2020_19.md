@@ -9,6 +9,7 @@ partner:
 year: 2020
 publisher: "Springer"
 volume: "12545"
+pages: "200--220"
 series: "Lecture Notes in Computer Science"
 title: "Compositionality of Safe Communication in Systems of Team Automata"
 booktitle:  "Proceedings of the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)"
