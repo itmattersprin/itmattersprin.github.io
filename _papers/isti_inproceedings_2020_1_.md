@@ -10,7 +10,7 @@ doi: "10.1007/978-3-030-50029-0\_5"
 url: "https://doi.org/10.1007/978-3-030-50029-0\_5"
 year: 2020
 publisher: "Springer"
-pages: "77--85"
+pages: "77-85"
 volume: "12134"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of the 22nd {IFIP} {WG} 6.1 International Conference on  Coordination Models and Languages (COORDINATION 2020),  Held as Part of the 15th International Federated Conference on  Distributed Computing Techniques (DisCoTec 2020)"
