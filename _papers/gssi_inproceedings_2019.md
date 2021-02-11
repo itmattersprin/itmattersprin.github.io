@@ -5,14 +5,14 @@ published: "true"
 type: "inproceedings"
 partner: 
    - "GSSI"
-doi: "10.1007/978-3-030-30446-1\_23"
-url: "https://doi.org/10.1007/978-3-030-30446-1\_23"
+doi: "10.1007/978-3-030-30446-1_23"
+url: "https://doi.org/10.1007/978-3-030-30446-1_23"
 year: 2019
 publisher: "Springer"
-pages: "433--453"
+pages: "433-453"
 volume: "11724"
 series: "Lecture Notes in Computer Science"
-booktitle: "Software Engineering and Formal Methods - 17th International Conference, {SEFM} 2019, Oslo, Norway, September 18-20, 2019, Proceedings"
+booktitle: "Proceedings of the 17th International Conference on Software Engineering and Formal Methods (SEFM 2019)"
 title: "An Operational Guide to Monitorability"
 editor: 
    - "Peter Csaba Ölveczky"
