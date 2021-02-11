@@ -9,7 +9,7 @@ doi: "10.1007/978-3-030-21485-2\_15"
 url: "https://doi.org/10.1007/978-3-030-21485-2\_15"
 year: 2019
 publisher: "Springer"
-pages: "260--277"
+pages: "260-277"
 volume: "11665"
 series: "Lecture Notes in Computer Science"
 booktitle: "Models, Languages, and Tools for Concurrent and Distributed Programming"
