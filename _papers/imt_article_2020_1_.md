@@ -5,7 +5,7 @@ wps:
 partner: 
    - "IMT"
 year: 2020
-pages: "389--397"
+pages: "389-397"
 number: "4"
 volume: "22"
 journal: "Int. J. Softw. Tools Technol. Transf."
