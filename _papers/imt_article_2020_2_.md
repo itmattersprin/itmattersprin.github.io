@@ -4,7 +4,7 @@ partner:
 wps: 
    - "3"
 year: 2020
-pages: "437--455"
+pages: "437-455"
 number: "4"
 volume: "22"
 journal: "Int. J. Softw. Tools Technol. Transf."
