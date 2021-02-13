@@ -1,27 +1,27 @@
 ---
-partner: 
-   - "UNIPI"
 wps: 
    - "1"
+partner: 
+   - "UNIPI"
 doi: "10.1007/978-3-030-64276-1\_15"
-url: "https://dblp.org/rec/conf/ictac/GadducciMRS20.bib"
+url: "https://doi.org/10.1007/978-3-030-64276-1\_15"
 year: 2020
 publisher: "Springer"
-pages: "283--303"
+pages: "283-303"
 volume: "12545"
 series: "Lecture Notes in Computer Science"
-booktitle: "Proceedings of the 7th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)"
+booktitle: "Proceedings of the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)"
 title: "Implementation Correctness for Replicated Data Types, Categorically"
-editor:
-   - "Violet Ka I Pun"
-   - "Volker Stolz"
-   - "Adenilso Sim{\~{a}}o}"
+editor: 
+   - "Martin J. Shepperd"
+   - "Fernando Brito e Abreu"
+   - "Alberto Rodrigues da Silva"
+   - "Ricardo Pérez-Castillo"
 author: 
-   - "Fabio Gadducci"
-   - "prova"
-   - "Hern{\'{a}}n C. Melgratti"
-   - "Christian Rold{\'{a}}n"
-   - "Matteo Sammartino"
+   - "Monica Arrabito"
+   - "Alessandro Fantechi"
+   - "Stefania Gnesi"
+   - "Laura Semini"
 type: "inproceedings"
 id: "DBLP:conf/ictac/GadducciMRS20"
 published: "true"
