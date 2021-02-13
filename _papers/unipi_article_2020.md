@@ -5,15 +5,15 @@ partner:
    - "UNIPI"
 type: "article"
 bibsource: "dblp computer science bibliography, https://dblp.org"
-biburl: "https://dblp.org/rec/journals/acta/BaldanG19.bib"
-timestamp: "Sun, 21 Jun 2020 17:38:12 +0200"
+biburl: "https://dblp.org/rec/journals/jlap/DokterGLS21.bib"
+timestamp: "Wed, 02 Dec 2020 13:38:56 +0100"
 doi: "10.1016/j.jlamp.2020.100615"
 url: "https://doi.org/10.1016/j.jlamp.2020.100615"
-year: 2019
-pages: "61-92"
+year: 2021
+pages: "1-16"
 volume: "118"
 journal: "J. Log. Algebraic Methods Program."
-title: "Petri nets are dioids: a new algebraic foundation for non-deterministic net theory"
+title: "Soft constraint automata with memory"
 author: 
    - "Kasper Dokter"
    - "Fabio Gadducci"
@@ -22,27 +22,3 @@ author:
 id: "DBLP:journals/jlap/DokterGLS21"
 published: "true"
 ---
-
-
-
-@article{,
-  author    = {},
-  title     = {Soft constraint automata with memory},
-  journal   = {},
-  volume    = {118},
-  pages     = {100615},
-  year      = {2021},
-  url       = {},
-  doi       = {},
-  timestamp = {Wed, 02 Dec 2020 13:38:56 +0100},
-  biburl    = {https://dblp.org/rec/journals/jlap/DokterGLS21.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-
-a service of Schloss Dagstuhl - Leibniz Center for Informatics
-
-    home
-    browse
-    search
-    about
-
