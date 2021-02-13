@@ -18,10 +18,10 @@ editor:
    - "Alberto Rodrigues da Silva"
    - "Ricardo Pérez-Castillo"
 author: 
-   - "Monica Arrabito"
-   - "Alessandro Fantechi"
-   - "Stefania Gnesi"
-   - "Laura Semini"
+   - "Fabio Gadducci"
+   - "Hern{\'{a}}n C. Melgratti
+   - "Christian Rold{\'{a}}n"
+   - "Matteo Sammartino"
 type: "inproceedings"
 id: "DBLP:conf/ictac/GadducciMRS20"
 published: "true"
