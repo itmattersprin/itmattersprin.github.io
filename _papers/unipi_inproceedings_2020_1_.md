@@ -15,7 +15,7 @@ title: "Implementation Correctness for Replicated Data Types, Categorically"
 editor: 
    - "Violet Ka I Pun"
    - "Volker Stolz"
-   - "Adenilso Sim{\~{a}}o}"
+   - "Adenilso Simao}"
 author: 
    - "Fabio Gadducci"
    - "Hern{\'{a}}n C. Melgratti
