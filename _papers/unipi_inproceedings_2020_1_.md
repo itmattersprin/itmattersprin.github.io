@@ -12,5 +12,12 @@ volume: "12545"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)"
 title: "Implementation Correctness for Replicated Data Types, Categorically"
+author: 
+   - "Fabio Gadducci"
+   - "Hern{\'{a}}n C. Melgratti
+   - "Christian Rold{\'{a}}n"
+   - "Matteo Sammartino"
+type: "inproceedings"
+id: "DBLP:conf/ictac/GadducciMRS20"
 published: "true"
 ---
