@@ -17,8 +17,8 @@ editor:
    - "Paul Gastin"
 author: 
    - "Fabio Gadducci"
-   - "Hernán C. Melgratti"
-   - "Christian Roldán"
+   - "Hern{\'{a}}n C. Melgratti"
+   - "Christian Rold{\'{a}}n"
    - "Matteo Sammartino"
 type: "inproceedings"
 id: "DBLP:conf/fsttcs/GadducciMRS19"
