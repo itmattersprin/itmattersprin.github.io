@@ -16,7 +16,7 @@ title: "Towards a Formal Model for Composable Container Systems"
 author: 
    - "Fabio Burco"
    - "Marino Miculan"
-   - "MarcomPeressotti"
+   - "Marco Peressotti"
 type: "inproceedings"
 id: "bmp:sac20"
 published: "true"
