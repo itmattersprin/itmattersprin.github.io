@@ -6,7 +6,7 @@ wps:
 doi: "10.4230/LIPIcs.FSTTCS.2019.42"
 url: "https://doi.org/10.4230/LIPIcs.FSTTCS.2019.42"
 year: 2019
-publisher: "Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik"
+publisher: "Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik"
 pages: "42:1-42:15"
 volume: "150"
 series: "LIPIcs"
@@ -17,8 +17,8 @@ editor:
    - "Paul Gastin"
 author: 
    - "Fabio Gadducci"
-   - "Hern{\'{a}}n C. Melgratti"
-   - "Christian Rold{\'{a}}n"
+   - "Hernan C. Melgratti"
+   - "Christian Roldan"
    - "Matteo Sammartino"
 type: "inproceedings"
 id: "DBLP:conf/fsttcs/GadducciMRS19"
