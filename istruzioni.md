@@ -106,4 +106,9 @@ Then execute
 ```
 After a while the new event will be displayed on the project's events web page.
 
-And likewise for the other elements such as papers, staff, etc.
+And likewise for the other elements such as papers, staff, etc. Bibliography updates require
+the execution of a script. After editing the file script/<your-institution>.bib file execute
+```bash
+> python3 importbib.py
+```
+from the directory 'script'.
