@@ -78,3 +78,13 @@
   speaker: "Maurice ter Beek"
   date: "June 16, 2020"
   descr: "VaMoS"
+  
+ - title: "Supervisory Synthesis of Configurable Behavioural Contracts with Modalities"
+   speaker: "Davide Basile"
+   date: "June 15, 2021"
+   descr: "41st International Conference on Formal Techniques for Distributed Objects, Components, and Systems, in the context of DisCoTec 2021"
+   
+ - title: "A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts"
+   speaker: "Davide Basile"
+   date: "June 17, 2021"
+   descr: "23rd International Conference on Coordination Models and Languages, in the context of DisCoTec 2021"
