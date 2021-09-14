@@ -1,5 +1,6 @@
 ---
 wps: 
+   - "1"
    - "5"
 published: "true"
 partner: 
