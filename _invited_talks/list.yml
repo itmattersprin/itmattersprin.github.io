@@ -23,3 +23,7 @@
   descr: "A talk at NOVA LINCS"
   date: "February 26, 2020"
 
+- title: "A Hands-On Introduction to Spatial Model Checking Using VoxLogicA"
+  speaker: "Vincenzo Ciancia"
+  descr: "Invited talk at the 27th International SPIN Symposium on Model Checking of Software (SPIN'21)"
+  date: "July 12, 2021"
