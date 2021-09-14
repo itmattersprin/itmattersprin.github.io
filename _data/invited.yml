@@ -88,6 +88,11 @@
   date: "June 17, 2021"
   descr: "23rd International Conference on Coordination Models and Languages (COORDINATION 2021), in the context of DisCoTec 2021"
   
+- title: "Towards a Spatial Model Checker on GPU"
+  speaker: "Laura Bussi"
+  date: "June 15, 2021"
+  descr: "41st International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE 2021), in the context of DisCoTec 2021"
+  
 - title: "Spatial Model Checking for Smart Stations: Research Challenges"
   speaker: "Vincenzo Ciancia"
   date: "August 24, 2021"
