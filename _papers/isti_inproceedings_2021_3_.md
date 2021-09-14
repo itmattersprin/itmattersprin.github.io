@@ -1,6 +1,7 @@
 ---
 wps: 
    - "5"
+published: "true"
 partner: 
    - "ISTI"
 type: "inproceedings"
