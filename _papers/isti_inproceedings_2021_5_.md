@@ -1,6 +1,7 @@
 ---
 wps: 
    - "1"
+   - "2"
 published: "true"
 partner: 
    - "ISTI"
