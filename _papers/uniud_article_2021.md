@@ -4,7 +4,7 @@ wps:
 published: "true"
 type: "article"
 partner: 
-   - "IMT"
+   - "UNIUD"
 year: 2021
 number: "2"
 volume: "20"
