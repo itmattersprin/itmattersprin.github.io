@@ -108,7 +108,9 @@ After a while the new event will be displayed on the project's events web page.
 
 And likewise for the other elements such as papers, staff, etc. Bibliography updates require
 the execution of a script. After editing the file script/<your-institution>.bib file execute
+the python script import<your-institution>.py; for instance, to generate the bibliography of
+gssi use
 ```bash
-> python3 importbib.py
+> python3 importgssi.py
 ```
 from the directory 'script'.
