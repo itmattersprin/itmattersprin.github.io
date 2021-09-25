@@ -14,7 +14,6 @@ booktitle: "ISoLA {(2)}"
 title: "Rigorous Engineering of Collective Adaptive Systems Introduction to the 3rd Track Edition"
 author: 
    - "Martin Wirsing"
-   - "Rocco De Nicola"
-   - "Stefan Jähnichen"
+   - "Rocco De Nicola and* Stefan Jähnichen"
 id: "DBLP:conf/isola/WirsingNJ20"
 ---
