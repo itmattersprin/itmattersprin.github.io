@@ -1,20 +1,20 @@
 ---
 wps: 
-   - "3"
+   - "1"
 published: "true"
 type: "inproceedings"
 partner: 
    - "GSSI"
-volume: "12476"
-pages: "22-38"
+note: "39-59"
 year: 2020
 publisher: "Springer"
+volume: "12476"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of ISoLA 2020"
-title: "On Testing Message-Passing Components"
+title: "Composing Communicating Systems, Synchronously"
 author: 
-   - "Alex Coto"
-   - "Roberto Guanciale"
+   - "Franco Barbanera"
+   - "Ivan Lanese"
    - "Emilio Tuosto"
-id: "cgt20ISOLA"
+id: "flt20ISOLA"
 ---

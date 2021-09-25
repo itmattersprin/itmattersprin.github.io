@@ -1,5 +1,6 @@
 ---
 wps: 
+   - "2"
    - "4"
 published: "true"
 type: "inproceedings"

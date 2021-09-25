@@ -1,13 +1,10 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'jekyll', '~> 3.5'
+source "https://rubygems.org"
 
-# Windows
-gem 'wdm', '~> 0.1.0', :platforms => [:mswin, :mingw]
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
-# Windows does not come with time zone data
-gem 'tzinfo-data', :platforms => [:mswin, :mingw, :jruby]
+gem "jekyll-theme-minimal"
 
-gem "minima", "~> 2.0"
-
-gem "kramdown-parser-gfm"
+# gem "rails"
+gem "jekyll", "~> 4.0"
