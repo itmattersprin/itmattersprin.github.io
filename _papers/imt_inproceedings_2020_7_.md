@@ -1,22 +1,22 @@
 ---
+wps: 
+   - "???"
+published: "true"
+type: "inproceedings"
 partner: 
    - "IMT"
    - "UNICAM"
-wps: 
-   - "1"
 year: 2020
-publisher: "{ACM}"
-pages: "141-152"
-booktitle: "FormaliSE@ICSE"
-title: "Verification of Privacy-Enhanced Collaborations"
+publisher: "Springer"
+pages: "397--418"
+volume: "12546"
+series: "Lecture Notes in Computer Science"
+booktitle: "{IFM}"
+title: "{PALM:} {A} Technique for Process ALgebraic Specification Mining"
 author: 
    - "Sara Belluccini"
    - "Rocco De Nicola"
-   - "Marlon Dumas"
-   - "Pille Pullonen"
    - "Barbara Re"
    - "Francesco Tiezzi"
-type: "inproceedings"
-id: "DBLP:conf/icse/BellucciniNDP0T20"
-published: "true"
+id: "DBLP:conf/ifm/BellucciniN0T20"
 ---

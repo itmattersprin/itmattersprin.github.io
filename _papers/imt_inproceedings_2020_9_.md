@@ -1,20 +1,20 @@
 ---
+wps: 
+   - "???"
+published: "true"
+type: "inproceedings"
 partner: 
    - "IMT"
-wps: 
-   - "1"
 year: 2020
-publisher: "CEUR-WS.org"
-pages: "119-127"
-volume: "2597"
-series: "CEUR Workshop Proceedings"
-booktitle: "ITASEC"
-title: "MuAC: Access Control Language for Mutual Benefits"
+publisher: "Springer"
+pages: "161--170"
+volume: "12477"
+series: "Lecture Notes in Computer Science"
+booktitle: "ISoLA {(2)}"
+title: "Rigorous Engineering of Collective Adaptive Systems Introduction to the 3rd Track Edition"
 author: 
-   - "Lorenzo Ceragioli"
-   - "Pierpaolo Degano"
-   - "Letterio Galletta"
-type: "inproceedings"
-id: "CeragioliDG20"
-published: "true"
+   - "Martin Wirsing"
+   - "Rocco De Nicola"
+   - "Stefan Jähnichen"
+id: "DBLP:conf/isola/WirsingNJ20"
 ---
