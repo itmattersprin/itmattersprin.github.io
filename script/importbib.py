@@ -27,8 +27,8 @@ def fileNameOf(target,mdmap, inst):
     counter = 0
     while os.path.exists(filename):
         counter = counter + 1
-        filename = os.path.join(target,inst+'_'+mdmap['type']+'_'+mdmap['year']+"_"+str(counter)+"_"+".md")
-    return filename
+        filename = os.path.join(target,inst+'_'+mdmap['type']+'_'+mdmap['year']+"_"+str(counter)+".md")
+    return filename.replace(' ', '_')
 
 
 def handleValue(mdmap,key,value):
