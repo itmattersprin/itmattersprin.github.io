@@ -81,11 +81,11 @@ def importBibliography(target,filename,inst=""):
     for entry in db.entries:
         writeToFile(target,parseEntry(entry),inst)
 
-dest = "../_papers"
-# dest = "tmp"
-# importBibliography(dest,"unipi.bib", "unipi")
-# importBibliography(dest,"isti.bib", "isti")
-importBibliography(dest,"unicam.bib","unicam")
-importBibliography(dest,"gssi.bib","gssi")
-importBibliography(dest,"imt.bib", "imt")
-importBibliography(dest,"uniud.bib", "uniud")
+# dest = "../_papers"
+# # dest = "tmp"
+# # importBibliography(dest,"unipi.bib", "unipi")
+# # importBibliography(dest,"isti.bib", "isti")
+# importBibliography(dest,"unicam.bib","unicam")
+# importBibliography(dest,"gssi.bib","gssi")
+# importBibliography(dest,"imt.bib", "imt")
+# importBibliography(dest,"uniud.bib", "uniud")
