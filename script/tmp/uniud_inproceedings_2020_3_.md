@@ -4,7 +4,7 @@ wps:
 published: "true"
 type: "inproceedings"
 partner: 
-   - "IMT"
+   - "UNIUD"
 oa: "Open access"
 bibsource: "dblp computer science bibliography, https://dblp.org"
 biburl: "https://dblp.org/rec/conf/types/HonsellLS20.bib"
