@@ -4,9 +4,7 @@ wps:
 published: "true"
 type: "article"
 partner: 
-   - "IMT"
-oalink: "???"
-oa: "available here"
+   - "UNIUD"
 year: 2021
 number: "2"
 volume: "20"
