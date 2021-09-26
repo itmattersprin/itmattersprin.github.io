@@ -6,9 +6,9 @@ type: "inproceedings"
 partner: 
    - "UNIUD"
 publisher: "Springer"
-year: 2021. To appear
+year: 2021
 series: "LNCS"
-booktitle: "FACS"
+booktitle: "FACS [to appear]"
 title: "Composable Partial Multiparty Session Types"
 author: 
    - "Claude Stolze"
