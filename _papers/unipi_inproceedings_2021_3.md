@@ -1,6 +1,7 @@
 ---
 wps: 
-   - "???"
+   - "1"
+   - "2"
 oa: "Open access"
 published: "true"
 type: "inproceedings"
