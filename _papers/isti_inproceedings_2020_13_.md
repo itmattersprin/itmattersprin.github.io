@@ -16,7 +16,7 @@ editor:
    - "Tiziana Margaria"
    - "Bernhard Steffen"
 booktitle: "Proceedings of the 9th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation: Verification Principles (ISoLA 2020), part I"
-title: "{30 Years of Simulation-Based Quantitative Analysis Tools: A Comparison Experiment Between Möbius and Uppaal SMC}"
+title: "30 Years of Simulation-Based Quantitative Analysis Tools: A Comparison Experiment Between Möbius and Uppaal SMC"
 author: 
    - "Davide Basile"
    - "Maurice H. ter Beek"
