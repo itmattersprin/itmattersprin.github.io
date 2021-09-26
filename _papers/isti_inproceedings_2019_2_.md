@@ -13,7 +13,7 @@ pages: "260-277"
 volume: "11665"
 series: "Lecture Notes in Computer Science"
 booktitle: "Models, Languages, and Tools for Concurrent and Distributed Programming"
-title: "Embedding {RCC8D} in the Collective Spatial Logic {CSLCS}"
+title: "Embedding RCC8D in the Collective Spatial Logic CSLCS"
 editor: 
    - "Michele Boreale"
    - "Flavio Corradini"
