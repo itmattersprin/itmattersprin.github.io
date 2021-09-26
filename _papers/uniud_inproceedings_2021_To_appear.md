@@ -6,14 +6,13 @@ type: "inproceedings"
 partner: 
    - "UNIUD"
 publisher: "Springer"
-year: "2021"
+year: 2021
 series: "LNCS"
-booktitle: "FACS"
-title: "Composable Partial Multiparty Session Types. To appear"
+booktitle: "FACS. To appear"
+title: "Composable Partial Multiparty Session Types"
 author: 
    - "Claude Stolze"
    - "Marino Miculan"
-   - "Di Gianantonio"
-   - "Pietro"
+   - "Pietro Di Gianantonio"
 id: "cm21"
 ---
