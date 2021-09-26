@@ -7,7 +7,7 @@
 - title: "Targeted Disinformation on Online Social Media"
   speaker: "Rocco De Nicola"
   date: "30 August - 3 September, 2021"
-  venue: "XX International School on Foundations of Security Analysis and Design, Bertinoro"
+  descr: "XX International School on Foundations of Security Analysis and Design, Bertinoro"
   slides: ""
 
 - title: "A Hands-On Introduction to Spatial Model Checking Using VoxLogicA"
@@ -18,7 +18,7 @@
 - title: "In search of lost time: Axiomatising parallel composition in process algebras"
   speaker: "Luca Aceto"
   date: "June 29 - July 2, 2021"
-  venue: "Keynote address at LICS 2021"
+  descr: "Keynote address at LICS 2021"
   slides: "https://www.youtube.com/watch?v=2PxM3f0QWDM"
 
 - title: "Reasoning about space: a logical framework based on Simplicial Complexes"
