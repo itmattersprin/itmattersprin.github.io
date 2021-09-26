@@ -17,7 +17,7 @@ pages: "7:1--7:18"
 volume: "188"
 series: "LIPIcs"
 booktitle: "26th International Conference on Types for Proofs and Programs, {TYPES} 2020, March 2-5, 2020, University of Turin, Italy"
-title: "$Lambda$-Symsym: An Interactive Tool for Playing with Involutions and Types"
+title: "Lambda-Symsym: An Interactive Tool for Playing with Involutions and Types"
 editor: 
    - "Ugo de'Liguoro"
    - "Stefano Berardi"
