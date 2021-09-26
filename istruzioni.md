@@ -106,11 +106,44 @@ Then execute
 ```
 After a while the new event will be displayed on the project's events web page.
 
-And likewise for the other elements such as papers, staff, etc. Bibliography updates require
-the execution of a script. After editing the file script/<your-institution>.bib file execute
-the python script import<your-institution>.py; for instance, to generate the bibliography of
-gssi use
+And likewise for the other elements such as papers, staff, etc.
+
+## Workflow for updating publications
+Handling the list of publications requires a slightly more complicated workflow involving the execution of a script:
+
+1. go to the 'script' directory
+2. edit the bibtex file for your institution (it is the file named in '<your-institution>.bib' in 'script')
+3. remove from the repository the files of publications already generated (if your shell is in 'script', execute 'git rm ../_papers/<your-institution>_*')
+4. execute the python script import<your-institution>.py with 'python import<your-institution>.py' or 'python3 import<your-institution>.py'
+5. commit the changes on the server
+
+In step 2 it is important that you add 
+
 ```bash
-> python3 importgssi.py
+partner = {GSSI},
+type = {article},
+published = {true},
+wps = {4}
 ```
-from the directory 'script'.
+to any new item to be included in the list of publications. If the paper is accepted but not published yet, please append '[to appear]' in the value you set to the key 'publisher'. Optional keys of the bibtex are
+```bash
+OA = {...},
+OAlink = {...}
+```
+whose values can be set to the type of open access policy and the url to the paper. In doubt, check how such keys are used for existing entry.
+
+For instance, to generate the bibliography of gssi,
+```bash
+> cd script
+> emacs gssi.bib
+> # once done with the editing
+> git rm ../_papers/gssi_*
+> python3 importgssi.py
+> git add ../_papers/gssi_*
+> git commit -am "publications of gssi updated"
+> git push
+```
+After about 1 minute, the server produces the new site and if you refresh the publication page you should be able to see the udpates. Note that the page does not refresh if the new bibtex generates ill-formatted files (eg. you forgot an essential key in the bibtex).
+
+The changes should be visible The automatically generated files 
+
