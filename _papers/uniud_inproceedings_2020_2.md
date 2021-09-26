@@ -3,6 +3,7 @@ wps:
    - "1"
    - "2"
    - "5"
+published: "true"
 partner: 
    - "UNIUD"
 location: "Brno, Czech Republic"
@@ -22,5 +23,4 @@ author:
    - "Marco"
 type: "inproceedings"
 id: "bmp:sac20"
-published: "true"
 ---

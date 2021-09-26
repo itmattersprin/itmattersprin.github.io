@@ -3,6 +3,7 @@ wps:
    - "3"
 partner: 
    - "UNIUD"
+published: "true"
 type: "article"
 bibsource: "dblp computer science bibliography, https://dblp.org"
 biburl: "https://dblp.org/rec/journals/jfrea/AlessiCGHLS19.bib"
@@ -23,5 +24,4 @@ author:
    - "Marina Lenisa"
    - "Ivan Scagnetto"
 id: "DBLP:journals/jfrea/AlessiCGHLS19"
-published: "true"
 ---

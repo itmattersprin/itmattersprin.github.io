@@ -1,6 +1,7 @@
 ---
 wps: 
    - "5"
+published: "true"
 partner: 
    - "UNIUD"
 type: "inproceedings"
@@ -21,5 +22,4 @@ author:
    - "Marino Miculan"
    - "Daniel Tosone"
 id: "DBLP:conf/itasec/MiculanT20"
-published: "true"
 ---

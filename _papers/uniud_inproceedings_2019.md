@@ -1,6 +1,7 @@
 ---
 wps: 
    - "3"
+published: "true"
 partner: 
    - "UNIUD"
 pdf: "http://ceur-ws.org/Vol-2504/paper20.pdf"
@@ -21,5 +22,4 @@ author:
    - "Marino Miculan"
 type: "inproceedings"
 id: "DBLP:conf/ictcs/GeattiIM19"
-published: "true"
 ---

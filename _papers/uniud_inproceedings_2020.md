@@ -1,6 +1,7 @@
 ---
 wps: 
    - "1"
+published: "true"
 partner: 
    - "UNIUD"
 type: "inproceedings"
@@ -21,5 +22,4 @@ author:
    - "Marino Miculan"
    - "Marco Peressotti"
 id: "DBLP:conf/gg/ChiapperiniMP20"
-published: "true"
 ---
