@@ -6,8 +6,8 @@ published: "true"
 type: "inproceedings"
 partner: 
    - "UNIPI"
-OAlink: "https://doi.org/10.5441/002/edbt.2021.86"
-OA: "Available here"
+oalink: "https://doi.org/10.5441/002/edbt.2021.86"
+oa: "Available here"
 year: 2021
 publisher: "OpenProceedings.org"
 pages: "694--697"
