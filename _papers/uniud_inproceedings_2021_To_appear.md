@@ -6,7 +6,7 @@ type: "inproceedings"
 partner: 
    - "UNIUD"
 publisher: "Springer"
-year: 2021. To appear
+year: "2021. To appear"
 series: "LNCS"
 booktitle: "FACS"
 title: "Composable Partial Multiparty Session Types"
