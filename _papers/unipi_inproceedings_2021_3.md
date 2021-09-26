@@ -2,11 +2,11 @@
 wps: 
    - "1"
    - "2"
-oa: "Open access"
 published: "true"
 type: "inproceedings"
 partner: 
    - "UNIPI"
+oa: "Open access"
 year: 2021
 publisher: "OpenProceedings.org"
 pages: "694--697"
