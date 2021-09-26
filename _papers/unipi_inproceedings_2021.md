@@ -1,10 +1,12 @@
 ---
 wps: 
-   - "???"
+   - "1"
+   - "2"
 published: "true"
 type: "inproceedings"
 partner: 
    - "UNIPI"
+   - "ISTI"
 year: 2021
 publisher: "Springer"
 pages: "188--196"
