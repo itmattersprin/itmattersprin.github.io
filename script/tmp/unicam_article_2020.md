@@ -1,5 +1,7 @@
 ---
-partners: "IMT and UNICAM"
+partner: 
+   - "IMT"
+   - "UNICAM"
 wps: 
    - "3"
 doi: "10.1016/j.scico.2020.102428"
