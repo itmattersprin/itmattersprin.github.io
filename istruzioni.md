@@ -143,5 +143,10 @@ For instance, to generate the bibliography of gssi,
 > git commit -am "publications of gssi updated"
 > git push
 ```
-After about 1 minute, the server produces the new site and if you refresh the publication page you should be able to see the udpates. Note that the page does not refresh if the new bibtex generates ill-formatted files (eg. you forgot an essential key in the bibtex); another possible error is that you forgot the key 'year' in the bibtex (by the way, the value of 'year' is crucial for generating unique names of the automatically generated files: always set the value of 'year' to an integer).
+After about 1 minute, the server produces the new site and if you refresh the publication page you should be able to see the udpates. Note that the page does not refresh if the new bibtex generates ill-formatted files. If your bibtex corrupts the site, a couple of minutes from the commit, you should receive an error message by email from the server. These messages are not very informative though; typical causes of errors are:
 
+- latex math-mode somewhere in the bib entry
+- missing an essential key in the bibtex
+- bad year value/format
+
+Notice that the value of the key 'year' of the bib entry is crucial for generating unique names of the automatically generated files: always set the value of 'year' to an integer.
