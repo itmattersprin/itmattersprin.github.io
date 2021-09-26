@@ -5,8 +5,6 @@ published: "true"
 type: "inproceedings"
 partner: 
    - "UNIPI"
-oalink: "???"
-oa: "Open access"
 year: 2021
 publisher: "Springer"
 pages: "121--134"
