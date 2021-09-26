@@ -7,7 +7,7 @@ use-site-title: false
 
 
 # Publications
-<!-- Click [here](bysite) to sort by partners. -->
+Click [here](bysite) to sort by partners.
 
 {% assign items = site.papers | sort: 'year' | reverse %}
 
