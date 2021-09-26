@@ -143,7 +143,5 @@ For instance, to generate the bibliography of gssi,
 > git commit -am "publications of gssi updated"
 > git push
 ```
-After about 1 minute, the server produces the new site and if you refresh the publication page you should be able to see the udpates. Note that the page does not refresh if the new bibtex generates ill-formatted files (eg. you forgot an essential key in the bibtex).
-
-The changes should be visible The automatically generated files 
+After about 1 minute, the server produces the new site and if you refresh the publication page you should be able to see the udpates. Note that the page does not refresh if the new bibtex generates ill-formatted files (eg. you forgot an essential key in the bibtex); another possible error is that you forgot the key 'year' in the bibtex (by the way, the value of 'year' is crucial for generating unique names of the automatically generated files: always set the value of 'year' to an integer).
 
