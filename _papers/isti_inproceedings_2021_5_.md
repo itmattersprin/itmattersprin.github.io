@@ -5,6 +5,7 @@ wps:
 published: "true"
 partner: 
    - "ISTI"
+   - "UNIPI"
 type: "inproceedings"
 doi: "10.1007/978-3-030-78089-0_12"
 url: "http://dx.doi.org/10.1007/978-3-030-78089-0_12"

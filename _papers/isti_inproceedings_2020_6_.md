@@ -1,26 +1,27 @@
 ---
 wps: 
-   - "1"
-   - "2"
+  - "1"
+  - "2"
 published: "true"
 type: "inproceedings"
 partner: 
-   - "ISTI"
-doi: "10.1007/978-3-030-50029-0_15"
-url: "https://doi.org/10.1007/978-3-030-50029-0_15"
+  - "ISTI"
 year: 2020
+doi: "10.1007/978-3-030-64276-1_11"
+url: "http://dx.doi.org/10.1007/978-3-030-64276-1_11"
 publisher: "Springer"
-pages: "230-239"
-volume: "12134"
+volume: "12545"
+pages: "200-220"
 series: "Lecture Notes in Computer Science"
-booktitle: "Proceedings of the 22nd IFIP WG 6.1 International Conference on Coordination Models and Languages (COORDINATION 2020), Held as Part of the 15th International Federated Conference on  Distributed Computing Techniques (DisCoTec 2020)"
-title: "Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited"
-editor: 
-   - "Simon Bliudze"
-   - "Laura Bocchi"
-author: 
-   - "Nicolas Gast"
-   - "Diego Latella"
-   - "Mieke Massink"
-id: "GLM20"
+title: "Compositionality of Safe Communication in Systems of Team Automata"
+booktitle:  "Proceedings of the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)"
+editor:  
+  - "V.K.I. Pun"
+  - "A. Simao"
+  - "V. Stolz"
+author:
+  - "Maurice H. ter Beek" 
+  - "Rolf Hennicker"
+  - "Jetty Kleijn"
+id: "BHK20b"
 ---

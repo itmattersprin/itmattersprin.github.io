@@ -59,24 +59,24 @@
   speaker: "Diego Latella"
 
 - title: "Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited"
-  descr: "22th International Conference on Coordination Models and Languages, in the context of DisCoTec 2020"
+  descr: "22th International Conference on Coordination Models and Languages (COORDINATION 2020), in the context of DisCoTec 2020"
   date: "2020/06/15"
   speaker: "Mieke Massink"
 
 - title: "Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego"
-  descr: "40th IFIP WG6.1 International Conference on FORmal Techniques for Distributed Objects (FORTE), in the context of DisCoTec 2020"
+  descr: "40th IFIP WG6.1 International Conference on FORmal Techniques for Distributed Objects (FORTE 2020), in the context of DisCoTec 2020"
   date:  "2020/06/15"
   speaker: "Davide Basile"
 
 - title: "Variability meets Security: Quantitative Security Modeling and Analysis of Highly Customizable Attack Scenarios"
-  descr: "40th IFIP WG6.1 International Conference on FORmal Techniques for Distributed Objects (FORTE), in the context of DisCoTec 2020"
-  speaker: "Maurice ter beek"
+  descr: "14th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS 2020)"
+  speaker: "Maurice ter Beek"
   date: "2020/02/05"
   
 - title: "Team Automata@Work: On Safe Communication"
+  descr: "22nd International Conference on Coordination Models and Languages (COORDINATION 2020), in the context of DiscoTec 2020"
   speaker: "Maurice ter Beek"
   date: "2020/06/16"
-  descr: "VaMoS"
   
 - title: "Supervisory Synthesis of Configurable Behavioural Contracts with Modalities"
   speaker: "Davide Basile"
@@ -101,12 +101,12 @@
 - title: "Feasibility of Spatial Model Checking for Nevus Segmentation"
   speaker: "Giovanna Broccia"
   date: "2021/05/20"
-  descr: "9th IEEE/ACM International Conference on Formal Methods in Software Engineering (FormaliSE'21), in the context of ICSE 2021"
+  descr: "9th IEEE/ACM International Conference on Formal Methods in Software Engineering (FormaliSE 2021), in the context of ICSE 2021"
 
 - title: "Querying Medical Imaging Datasets using Spatial Logics (position paper)"
   speaker: "Vincenzo Ciancia"
   date: "2021/06/21"
-  descr: "The International Health Data Workshop (HEDA'21), in the context of MEDI 2021"
+  descr: "The International Health Data Workshop (HEDA 2021), in the context of MEDI 2021"
 
 - title: "A model of Asymmetric Replicated State Machines"
   speaker: "Emilio Tuosto"
@@ -122,7 +122,7 @@
 
 - title: "A Hands-On Introduction to Spatial Model Checking Using VoxLogicA"
   speaker: "Vincenzo Ciancia"
-  descr: "Invited talk at the 27th International SPIN Symposium on Model Checking of Software (SPIN'21)"
+  descr: "Invited talk at the 27th International SPIN Symposium on Model Checking of Software (SPIN 2021), in the context of ECOOP/ISSTA 2021"
   date: "2021/07/12"
 
 - title: "In search of lost time: Axiomatising parallel composition in process algebras"
