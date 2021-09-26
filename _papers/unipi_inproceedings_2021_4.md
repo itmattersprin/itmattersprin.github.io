@@ -11,7 +11,7 @@ pages: "87:1--87:16"
 volume: "202"
 series: "LIPIcs"
 booktitle: "46th International Symposium on Mathematical Foundations of Computer Science, {MFCS} 2021, August 23-27, 2021, Tallinn, Estonia"
-title: "The G{\"{o}}del Fibration"
+title: "The G&ouml;del Fibration"
 editor: 
    - "Filippo Bonchi"
    - "Simon J. Puglisi"
