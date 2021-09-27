@@ -1,12 +1,10 @@
 ---
 wps: 
-   - "???"
+   - "3"
 published: "true"
 type: "article"
 partner: 
    - "UNIUD"
-oalink: "???"
-oa: "available here"
 year: 2021
 number: "2"
 volume: "20"
