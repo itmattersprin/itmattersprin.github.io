@@ -1,3 +1,18 @@
+- title: "Closure Hyperdoctrines"
+  speaker: "Davide Castelnovo"
+  date: "2021/09/02"
+  descr: "9th Conference on Algebra and Coalgebra in Computer Science (CALCO 2021), Salzburg"
+
+- title: "A Calculus for Attribute-based Memory Updates"
+  speaker: "Michele Pasqua"
+  date: "2021/09/02"
+  descr: "18th International Colloquium on Theoretical Aspects of Computing (ICTAC 2021), Nur-Sultan, Kazakhstan (Online)"
+
+- title: "Automated Symbolic Verification of Telegram’s MTProto 2.0"
+  speaker: "Marino Miculan"
+  date: "2021/09/30"
+  descr: "OWASP Italy September Meetup 2021"
+
 - title: "Verification of Data in Space and Time (Invited Talk)"
   speaker: "Mieke Massink"
   date: "2019/10/07"
@@ -6,7 +21,7 @@
 - title: "A story of monitorability (Invited talk)"
   descr: "Colloquium Jacques Morgenstern, INRIA Sophia Antipolis"
   date: "2019/09/10"
-  speaker: Luca Aceto
+  speaker: "Luca Aceto"
 
 - title: "Verification of Data in Space and Time"
   descr: "Centre Universitaire d’Informatique – Université de Genève"
