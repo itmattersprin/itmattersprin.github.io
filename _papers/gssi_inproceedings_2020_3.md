@@ -1,22 +1,24 @@
 ---
 wps: 
    - "3"
-published: "true"
 type: "inproceedings"
 partner: 
    - "GSSI"
-doi: "10.1145/3332466.3374529"
-url: "https://doi.org/10.1145/3332466.3374529"
+   - "IMT"
+pages: "318-336"
 year: 2020
-publisher: "{ACM}"
-pages: "202-216"
-booktitle: "PPoPP'20: 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming"
-title: "Parallel and distributed bounded model checking of multi-threaded programs"
+volume: "12546"
+series: "Lecture Notes in Computer Science"
+booktitle: "Proceedings of iFM"
+title: "Tight Error Analysis in Fixed-point Arithmetics"
 editor: 
-   - "Rajiv Gupta"
-   - "Xipeng Shen"
+   - "Brijesh Dongol"
+   - "Elena Troubitsyna"
 author: 
+   - "Stella Simic"
+   - "Alberto Bemporad"
    - "Omar Inverso"
-   - "Catia Trubiani"
-id: "DBLP:conf/ppopp/InversoT20"
+   - "Mirco Tribastone"
+id: "ait20"
+published: "true"
 ---

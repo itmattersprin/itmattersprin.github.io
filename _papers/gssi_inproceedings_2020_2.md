@@ -1,29 +1,22 @@
 ---
 wps: 
-   - "2"
    - "3"
 published: "true"
 type: "inproceedings"
 partner: 
    - "GSSI"
-oa: "LIPIcs publications are open access"
-doi: "10.4230/LIPIcs.CONCUR.2020.14"
-oalink: "https://doi.org/10.4230/LIPIcs.CONCUR.2020.14"
+doi: "10.1145/3332466.3374529"
+url: "https://doi.org/10.1145/3332466.3374529"
 year: 2020
-publisher: "Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik"
-pages: "14:1-14:21"
-volume: "171"
-series: "LIPIcs"
-booktitle: "Proceedings of the 31st International Conference on Concurrency Theory (CONCUR 2020)"
-title: "Probabilistic Analysis of Binary Sessions"
+publisher: "{ACM}"
+pages: "202-216"
+booktitle: "PPoPP'20: 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming"
+title: "Parallel and distributed bounded model checking of multi-threaded programs"
 editor: 
-   - "Igor Konnov"
-   - "Laura Kovács"
+   - "Rajiv Gupta"
+   - "Xipeng Shen"
 author: 
    - "Omar Inverso"
-   - "Hernán C. Melgratti"
-   - "Luca Padovani"
    - "Catia Trubiani"
-   - "Emilio Tuosto"
-id: "DBLP:conf/concur/InversoMPTT20"
+id: "DBLP:conf/ppopp/InversoT20"
 ---

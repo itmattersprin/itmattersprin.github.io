@@ -1,24 +1,20 @@
 ---
 wps: 
    - "3"
+published: "true"
 type: "inproceedings"
 partner: 
    - "GSSI"
-   - "IMT"
-pages: "318-336"
+note: "243-260"
 year: 2020
-volume: "12546"
+publisher: "Springer"
+volume: "12477"
 series: "Lecture Notes in Computer Science"
-booktitle: "Proceedings of iFM"
-title: "Tight Error Analysis in Fixed-point Arithmetics"
-editor: 
-   - "Brijesh Dongol"
-   - "Elena Troubitsyna"
+booktitle: "Proceedings of ISoLA 2020"
+title: "Abstractions for Collective Adaptive Systems"
 author: 
-   - "Stella Simic"
-   - "Alberto Bemporad"
    - "Omar Inverso"
-   - "Mirco Tribastone"
-id: "ait20"
-published: "true"
+   - "Catia Trubiani"
+   - "Emilio Tuosto"
+id: "itt20"
 ---

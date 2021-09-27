@@ -15,7 +15,7 @@ year: 2021
 pages: "102567"
 volume: "202"
 journal: "Sci. Comput. Program."
-title: "Provably correct implementation of the \emph{AbC} calculus"
+title: "Provably correct implementation of the AbC calculus"
 author: 
    - "Rocco De Nicola"
    - "Tan Duong"
