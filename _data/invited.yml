@@ -2,6 +2,7 @@
   speaker: "Davide Castelnovo"
   date: "2021/09/02"
   descr: "9th Conference on Algebra and Coalgebra in Computer Science (CALCO 2021), Salzburg"
+  slides: "https://www.coalg.org/calco-mfps2021/files/2021/09/3-9-castelnuovo.pdf"
 
 - title: "A Calculus for Attribute-based Memory Updates"
   speaker: "Michele Pasqua"
