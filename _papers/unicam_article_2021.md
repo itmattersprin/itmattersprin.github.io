@@ -1,6 +1,6 @@
 ---
 wps: 
-   - "???"
+   - "3"
 published: "true"
 type: "article"
 partner: 
