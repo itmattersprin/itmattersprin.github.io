@@ -14,6 +14,7 @@
   speaker: "Vincenzo Ciancia"
   descr: "Invited talk at the 27th International SPIN Symposium on Model Checking of Software (SPIN'21)"
   date: "July 12, 2021"
+  slides: "spin12-noappendix.pdf"
 
 - title: "In search of lost time: Axiomatising parallel composition in process algebras"
   speaker: "Luca Aceto"
