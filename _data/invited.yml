@@ -4,6 +4,11 @@
   descr: "9th Conference on Algebra and Coalgebra in Computer Science (CALCO 2021), Salzburg"
   slides: "https://www.coalg.org/calco-mfps2021/files/2021/09/3-9-castelnuovo.pdf"
 
+- title: "Fuzzy algebraic theories"
+  speaker: "Davide Castelnovo"
+  date: "2021/05/24"
+  descr: "Logic Seminars at Department of Mathematics, University of Padua"
+
 - title: "A Calculus for Attribute-based Memory Updates"
   speaker: "Michele Pasqua"
   date: "2021/09/02"
@@ -47,12 +52,12 @@
 - title: "Securing the Art Market with Distributed Public Ledgers"
   descr: "Distributed Ledger Technologies @ ITASEC, Ancona, Italy"
   date: "2020/02/01"
-  speaker: "D Tosone"
+  speaker: "Daniel Tosone"
 
 - title: "Closure hyperdoctrines"
   descr: "EWSCS'20, Palmse, Estonia"
   date: "2020/03/01"
-  speaker: "D Castelnovo"
+  speaker: "Davide Castelnovo"
 
 - title: "Towards a formal model for composable container systems"
   descr: "35th Annual ACM Symposium on Applied Computing, Brno"
@@ -67,7 +72,7 @@
 - title: "Innovating Medical Image Analysis via Spatial Logics"
   descr: "Colloquium in Honour of Stefania Gnesi on the occasion of her 65th birthday, in the context of the 3rd World Congress on Formal Methods. Porto, Portogallo"
   date: "2019/10/08"
-  speaker: Mieke Massink
+  speaker: "Mieke Massink"
 
 - title: "Embedding RCC8D in the Collective Spatial Logic CSLCS"
   descr: "Rocco65: A Symposium in honor of Rocco De Nicola on the occasion of his 65th birthday. IMT Lucca"
