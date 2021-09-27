@@ -1,6 +1,7 @@
 ---
 wps: 
-   - "???"
+   - "1"
+   - "3"
 published: "true"
 type: "inproceedings"
 partner: 
