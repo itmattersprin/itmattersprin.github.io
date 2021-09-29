@@ -139,7 +139,6 @@
   speaker: "Rocco De Nicola"
   date: "2021/08/30"
   descr: "XX International School on Foundations of Security Analysis and Design, Bertinoro"
-  slides: ""
 
 - title: "A Hands-On Introduction to Spatial Model Checking Using VoxLogicA"
   speaker: "Vincenzo Ciancia"
@@ -156,7 +155,6 @@
   speaker: "Michele Loreti"
   date: "2021/03/27"
   descr: "Meeting of IFIP WG1.3 Foundations of System Specification Luxembourg"
-  slides: ""
 
 - title: "An operational guide to monitorability"
   speaker: "Luca Aceto"
@@ -165,7 +163,6 @@
   slides: "https://teias.institute/aceto-talk202102/"
 
 - title: "Automated Symbolic Verification of Telegram's MTProto 2.0"
-  slides: ""
   speaker: "Marino Miculan"
   date: "2020/12/14"
   descr: "ITU Center for Information Security and Trust (ITU CISAT)"

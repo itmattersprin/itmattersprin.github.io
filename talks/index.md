@@ -11,7 +11,8 @@ use-site-title: false
 {% assign invited = site.data.invited | sort: 'date' | reverse %}
 {% for n in invited %}
 - *{{ n.speaker }}*: **{{ n.title }}**  
-  <span markdown="1" style="font-size:.95em"> {{ n.descr}}. {{ n.date | date: '%B %d, %Y'}}.<br/>{% if n.slides %}[Slides](invited_talks/{{ n.slides }}){% endif %}</span>{% endfor %}
+  <span markdown="1" style="font-size:.95em"> {{ n.descr}}. {{ n.date | date: '%B %d, %Y'}}.
+  <br/>{% if n.slides %}[Slides]({{ n.slides }}){% endif %}</span>{% endfor %}
 
 ## Internal Talks
 {% assign items = site.talks | sort: 'date' | reverse %}
