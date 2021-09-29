@@ -109,6 +109,12 @@ After a while the new event will be displayed on the project's events web page.
 And likewise for the other elements such as papers, staff, etc.
 
 ## Workflow for updating publications
+The simplest way to update the bibliography of your site is to go to the 'script' directory and execute
+```bash
+> make <your-site>
+```
+If (for whatever reasons) your installation does not provide the 'make' command, follow the instructions below.
+
 Handling the list of publications requires a slightly more complicated workflow involving the execution of a script:
 
 1. go to the 'script' directory
