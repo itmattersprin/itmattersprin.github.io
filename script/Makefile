@@ -50,6 +50,6 @@ test:
 	python3 importtest.py
 	git add $(DEST)/test_*
 	git commit -am "test bib updated"
-	@echo("test updated")
+	@echo "test updated"
 
 
