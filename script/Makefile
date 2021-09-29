@@ -1,8 +1,8 @@
 gssi:
-	git rm ../_papers/gssi_* &
-	python3 importgssi.py &
-	git add ../papers/gssi_* &
-	git commit -am "gssi bib updated" &
+	git rm ../_papers/gssi_*
+	python3 importgssi.py
+	git add ../papers/gssi_*
+	git commit -am "gssi bib updated"
 	git push
 
 imt:
