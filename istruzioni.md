@@ -108,7 +108,29 @@ After a while the new event will be displayed on the project's events web page.
 
 And likewise for the other elements such as papers, staff, etc.
 
-## Workflow for updating publications
+## List of tools
+To add an item to the list of tools you just need to create a file '<mylovelytoo>.md' in the directory '_toolkits' and add it to the repository. The structure of the 'md' file is
+```bash
+---
+name: "MyLovelyTool"
+description: "this is the most lovely tool to go fishing."
+contact: "x@y.z"
+github: "xyz"
+website: "http://gonefishing.mha"
+date: "1/4/2019"
+---
+```
+The field 'date' is not rendered. Any field can be omitted, but please do assign a value at least to 'name', 'description', and 'contact'.
+
+Once you've done with the editing, execute
+```bash
+git add <mylovelytoo>.md
+git commit -am "mylovelytool added to the list"
+git push
+```
+and you've done.
+
+# Workflow for updating publications
 The simplest way to update the bibliography of your site is to go to the 'script' directory and execute
 ```bash
 > make <your-site>
