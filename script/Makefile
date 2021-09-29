@@ -1,50 +1,55 @@
+DEST = ../_papers
+
 gssi:
-	git rm ../_papers/gssi_*
+	git rm $(DEST)/gssi_*
 	python3 importgssi.py
-	git add ../papers/gssi_*
+	git add $(DEST)/gssi_*
 	git commit -am "gssi bib updated"
 	git push
 
 imt:
-	git rm ../_papers/imt_*
+	git rm $(DEST)/imt_*
 	python3 importimt.py
-	git add ../papers/imt_*
+	git add $(DEST)/imt_*
 	git commit -am "imt bib updated"
 	git push
 
 isti:
-	git rm ../_papers/isti_*
+	git rm $(DEST)/isti_*
 	python3 importisti.py
-	git add ../papers/isti_*
+	git add $(DEST)/isti_*
 	git commit -am "isti bib updated"
 	git push
 
 unicam:
-	git rm ../_papers/unicam_*
+	git rm $(DEST)/unicam_*
 	python3 importunicam.py
-	git add ../papers/unicam_*
+	git add $(DEST)/unicam_*
 	git commit -am "unicam bib updated"
 	git push
 
 unipi:
-	git rm ../_papers/unipi_*
+	git rm $(DEST)/unipi_*
 	python3 importunipi.py
-	git add ../papers/unipi_*
+	git add $(DEST)/unipi_*
 	git commit -am "unipi bib updated"
 	git push
 
 uniud:
-	git rm ../_papers/uniud_*
+	git rm $(DEST)/uniud_*
 	python3 importuniud.py
-	git add ../papers/uniud_*
+	git add $(DEST)/uniud_*
 	git commit -am "uniud bib updated"
 	git push
 
 test:
-	git rm ../_papers/test_*
+	touch $(DEST)/test_.md
+	git add $(DEST)/test_*
+	git commit -am "make is testing"
+	git rm $(DEST)/test_*
 	python3 importtest.py
-	git add ../papers/test_*
+	git add $(DEST)/test_*
 	git commit -am "test bib updated"
-	git push
 	@echo("test updated")
+
 
