@@ -109,7 +109,7 @@ After a while the new event will be displayed on the project's events web page.
 And likewise for the other elements such as papers, staff, etc.
 
 ## List of tools
-To add an item to the list of tools you just need to create a file '<mylovelytoo>.md' in the directory '_toolkits' and add it to the repository. The structure of the 'md' file is
+To add an item to the list of tools you just need to create a file '<mylovelytool>.md' in the directory '_toolkits' and add it to the repository. The structure of the 'md' file is
 ```bash
 ---
 name: "MyLovelyTool"
