@@ -2,6 +2,10 @@
 wps: 
    - "4"
    - "5"
+published: "true"
+type: "article"
+partner: 
+   - "ISTI"
 doi: "10.1007/s10009-022-00653-3"
 url: "https://doi.org/10.1007/s10009-022-00653-3"
 year: 2022
@@ -15,7 +19,5 @@ author:
    - "Maurice H. ter Beek"
    - "Alessio Ferrari"
    - "Axel Legay"
-type: "article"
 id: "BasileBFL22"
-published: "true"
 ---

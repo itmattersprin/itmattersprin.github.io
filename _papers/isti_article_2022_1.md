@@ -2,6 +2,10 @@
 wps: 
    - "1"
    - "4"
+published: "true"
+type: "article"
+partner: 
+   - "ISTI"
 author: 
    - "Davide Basile"
    - "Maurice H. ter Beek"
@@ -12,7 +16,5 @@ year: 2022
 pages: "102841"
 journal: "Science of Computer Programming"
 title: "Contract Automata Library"
-type: "article"
 id: "BB22"
-published: "true"
 ---
