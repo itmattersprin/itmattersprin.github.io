@@ -17,7 +17,6 @@ editor:
    - "Violet K.I. Pun"
    - "Adenilso Simao"
    - "Volker Stolz"
-opteditor: "Violet K.I. Pun and Adenilso Sim{\~{a}}o and Volker Stolz"
 booktitle: "Proceedings of the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC'20)"
 title: "Compositionality of Safe Communication in Systems of Team Automata"
 author: 

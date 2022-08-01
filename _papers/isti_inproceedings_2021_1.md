@@ -15,12 +15,10 @@ volume: "13047"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of the 24th International Symposium on Formal Methods (FM'21)"
 title: "Featured Team Automata"
-opteditor: "Marieke Huisman and Corina S. P{\v{a}}s{\v{a}}reanu and Naijun Zhan"
 editor: 
    - "Marieke Huisman"
    - "Corina S. Pasareanu"
    - "Naijun Zhan"
-optauthor: "Maurice H. ter Beek and Guillermina Cledou and Rolf Hennicker and Jos{\'{e}} Proen{\c{c}}a"
 author: 
    - "Maurice H. ter Beek"
    - "Guillermina Cledou"
