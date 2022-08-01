@@ -13,7 +13,7 @@ publisher: "Springer"
 pages: "225--238"
 volume: "12717"
 series: "Lecture Notes in Computer Science"
-booktitle: "Coordination Models and Languages - 23rd {IFIP} {WG} 6.1 International Conference, {COORDINATION} 2021, Held as Part of the 16th International Federated Conference on Distributed Computing Techniques, DisCoTec 2021, Valletta, Malta, June 14-18, 2021, Proceedings"
+booktitle: "Proceedings of the 23rd IFIP WG 6.1 International Conference on Coordination Models and Languages (COORDINATION'21)"
 title: "A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts"
 editor: 
    - "Ferruccio Damiani"

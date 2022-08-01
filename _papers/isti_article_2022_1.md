@@ -14,7 +14,7 @@ doi: "10.1016/j.scico.2022.102841"
 issn: "0167-6423"
 year: 2022
 pages: "102841"
-journal: "Science of Computer Programming"
+journal: "Sci. Comput. Program."
 title: "Contract Automata Library"
 id: "BB22"
 ---
