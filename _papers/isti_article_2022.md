@@ -13,7 +13,7 @@ pages: "351--370"
 number: "3"
 volume: "24"
 journal: "Int. J. Softw. Tools Technol. Transf."
-title: "Exploring the {ERTMS/ETCS} full moving block specification: an experience with formal methods"
+title: "Exploring the ERTMS/ETCS full moving block specification: an experience with formal methods"
 author: 
    - "Davide Basile"
    - "Maurice H. ter Beek"
