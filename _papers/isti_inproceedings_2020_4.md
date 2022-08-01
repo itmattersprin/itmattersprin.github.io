@@ -16,7 +16,7 @@ pages: "245-265"
 volume: "12076"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of the 23rd International Conference on Fundamental Approaches to Software Engineering (FASE 2020), Held as Part of the European Joint  Conferences on Theory and Practice of Software (ETAPS 2020)"
-title: "Family-Based {SPL} Model Checking Using Parity Games with Variability"
+title: "Family-Based SPL Model Checking Using Parity Games with Variability"
 editor: 
    - "Heike Wehrheim"
    - "Jordi Cabot"
