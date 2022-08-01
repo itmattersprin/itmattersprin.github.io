@@ -13,7 +13,7 @@ pages: "85-109"
 volume: "11865"
 series: "Lecture Notes in Computer Science"
 booktitle: "From Software Engineering to Formal Methods and Tools, and Back"
-title: "Innovating Medical Image Analysis via Spatial Logics"
+title: "{Innovating Medical Image Analysis via Spatial Logics}"
 editor: 
    - "Maurice H. ter Beek"
    - "Alessandro Fantechi"

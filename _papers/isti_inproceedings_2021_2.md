@@ -1,25 +1,28 @@
 ---
 wps: 
-   - "1"
-   - "4"
+   - "2"
+   - "5"
 published: "true"
 type: "inproceedings"
 partner: 
    - "ISTI"
-doi: "10.1007/978-3-030-78142-2_14"
-url: "http://dx.doi.org/10.1007/978-3-030-78142-2_14"
-pages: "225-238"
+doi: "10.1007/978-3-030-85248-1\_3"
+url: "https://doi.org/10.1007/978-3-030-85248-1\_3"
 year: 2021
 publisher: "Springer"
-volume: "12717"
+pages: "39--47"
+volume: "12863"
 series: "Lecture Notes in Computer Science"
+booktitle: "Formal Methods for Industrial Critical Systems - 26th International Conference, {FMICS} 2021, Paris, France, August 24-26, 2021, Proceedings"
+title: "Spatial Model Checking for Smart Stations - Research Challenges"
 editor: 
-   - "Ferruccio Damiani"
-   - "Ornela Dardha"
-booktitle: "Proceedings of the 23rd IFIP WG 6.1 International Conference on Coordination Models and Languages (COORDINATION'21)"
-title: "A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts"
+   - "Alberto Lluch-Lafuente"
+   - "Anastasia Mavridou"
 author: 
-   - "Davide Basile"
    - "Maurice H. ter Beek"
-id: "BB21"
+   - "Vincenzo Ciancia"
+   - "Diego Latella"
+   - "Mieke Massink"
+   - "Giorgio Oronzo Spagnolo"
+id: "DBLP:conf/fmics/BeekCLMS21"
 ---

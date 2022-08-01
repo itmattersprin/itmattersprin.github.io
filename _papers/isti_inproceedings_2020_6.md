@@ -16,7 +16,7 @@ editor:
    - "Tiziana Margaria"
    - "Bernhard Steffen"
 booktitle: "Proceedings of the 9th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation: Applications (ISoLA 2020), part III"
-title: "Designing a Demonstrator of Formal Methods for Railways Infrastructure Managers"
+title: "{Designing a Demonstrator of Formal Methods for Railways Infrastructure Managers}"
 author: 
    - "Davide Basile"
    - "Maurice H. ter Beek"

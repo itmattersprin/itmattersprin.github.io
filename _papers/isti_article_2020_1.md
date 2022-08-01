@@ -14,7 +14,7 @@ year: 2020
 number: "2"
 volume: "16"
 journal: "Log. Methods Comput. Sci."
-title: "Synthesis of Orchestrations and Choreographies: Bridging the Gap between Supervisory Control and Coordination of Services"
+title: "{Synthesis of Orchestrations and Choreographies: Bridging the Gap between Supervisory Control and Coordination of Services}"
 author: 
    - "Davide Basile"
    - "Maurice H. ter Beek"

@@ -1,6 +1,5 @@
 ---
 wps: 
-   - "4"
    - "5"
 published: "true"
 type: "inproceedings"
@@ -14,7 +13,7 @@ pages: "3-21"
 volume: "12136"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of the 40th IFIP WG 6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE 2020),  Held as Part of the 15th International Federated Conference on Distributed  Computing Techniques (DisCoTec 2020)"
-title: "Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego"
+title: "{Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego}"
 editor: 
    - "Alexey Gotsman"
    - "Ana Sokolova"
