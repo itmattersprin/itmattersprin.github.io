@@ -12,6 +12,11 @@ modify the files.
 Once you are notified that permissions are granted, clone the
 repository into your machine as explained in the next section.
 
+Note: the instructions below also require that you set an ssh password 
+for your github account. See: 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
 # Starting an editing session
 
 If you've a github account then you should know how to execute the
@@ -23,6 +28,10 @@ steps to follow from a Linux shell.
    > git clone git@github.com:itmattersprin/itmattersprin.github.io.git
    ```
    (or checkout [https://github.com/itmattersprin/itmattersprin.github.io](https://github.com/itmattersprin/itmattersprin.github.io)).
+   
+   
+   Note: this operation performed on Windows OS will result in an "invalid path errors". 
+   The CygWin64 Terminal for Windows provides a Unix terminal, it has been tested and works correctly. 
 
 1. from the directory where you stored your local copy of the files
    (if you executed the previous command the directory is called
@@ -171,6 +180,16 @@ For instance, to generate the bibliography of gssi,
 > git commit -am "publications of gssi updated"
 > git push
 ```
+   
+   
+Note:  the python script has some dependencies. Install them using:
+   
+```bash
+pip install bibtexparser
+pip install pylatexenc
+```
+   
+   
 After about 1 minute, the server produces the new site and if you refresh the publication page you should be able to see the udpates. Note that the page does not refresh if the new bibtex generates ill-formatted files. If your bibtex corrupts the site, a couple of minutes from the commit, you should receive an error message by email from the server. These messages are not very informative though; typical causes of errors are:
 
 - latex math-mode somewhere in the bib entry
