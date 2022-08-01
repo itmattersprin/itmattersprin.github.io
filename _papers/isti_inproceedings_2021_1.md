@@ -1,28 +1,28 @@
 ---
 wps: 
-   - "1"
    - "2"
+   - "5"
 published: "true"
 type: "inproceedings"
 partner: 
    - "ISTI"
-doi: "10.1007/978-3-030-90870-6\_26"
-url: "https://doi.org/10.1007/978-3-030-90870-6\_26"
+doi: "10.1007/978-3-030-85248-1\_3"
+url: "https://doi.org/10.1007/978-3-030-85248-1\_3"
 year: 2021
 publisher: "Springer"
-pages: "483--502"
-volume: "13047"
+pages: "39--47"
+volume: "12863"
 series: "Lecture Notes in Computer Science"
-booktitle: "Formal Methods - 24th International Symposium, {FM} 2021, Virtual Event, November 20-26, 2021, Proceedings"
-title: "Featured Team Automata"
+booktitle: "Formal Methods for Industrial Critical Systems - 26th International Conference, {FMICS} 2021, Paris, France, August 24-26, 2021, Proceedings"
+title: "Spatial Model Checking for Smart Stations - Research Challenges"
 editor: 
-   - "Marieke Huisman"
-   - "Corina S. Pasareanu"
-   - "Naijun Zhan"
+   - "Alberto Lluch-Lafuente"
+   - "Anastasia Mavridou"
 author: 
    - "Maurice H. ter Beek"
-   - "Guillermina Cledou"
-   - "Rolf Hennicker"
-   - "José Proença"
-id: "DBLP:conf/fm/BeekCHP21"
+   - "Vincenzo Ciancia"
+   - "Diego Latella"
+   - "Mieke Massink"
+   - "Giorgio Oronzo Spagnolo"
+id: "DBLP:conf/fmics/BeekCLMS21"
 ---
