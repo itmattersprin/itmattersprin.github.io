@@ -11,8 +11,9 @@ eprint: "2005.05578"
 archiveprefix: "arXiv"
 url: "https://arxiv.org/abs/2005.05578"
 year: 2020
-journal: "arXiv:2005.05578 [cs.LO]"
-title: "Towards Spatial Bisimilarity for Closure Models: Logical and Coalgebraic Characterisations"
+volume: "abs/2005.05578"
+journal: "CoRR"
+title: "{Towards Spatial Bisimilarity for Closure Models: Logical and Coalgebraic Characterisations}"
 author: 
    - "Vincenzo Ciancia"
    - "Diego Latella"
