@@ -14,7 +14,7 @@ pages: "77-85"
 volume: "12134"
 series: "Lecture Notes in Computer Science"
 booktitle: "Proceedings of the 22nd IFIP WG 6.1 International Conference on  Coordination Models and Languages (COORDINATION 2020),  Held as Part of the 15th International Federated Conference on  Distributed Computing Techniques (DisCoTec 2020)"
-title: "{Team Automata@Work: On Safe Communication}"
+title: "Team Automata@Work: On Safe Communication"
 editor: 
    - "Simon Bliudze"
    - "Laura Bocchi"
