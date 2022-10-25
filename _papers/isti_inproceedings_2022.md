@@ -10,7 +10,7 @@ editor:
    - "Bernhard Steffen"
 booktitle: "Proceedings of the 11th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (ISoLA'22)"
 optbooktitle: "ISoLA"
-title: "{An Experimental Toolchain for Strategy Synthesis with Spatial Properties}"
+title: "An Experimental Toolchain for Strategy Synthesis with Spatial Properties"
 author: 
    - "D. Basile"
    - "M. H. ter Beek"
