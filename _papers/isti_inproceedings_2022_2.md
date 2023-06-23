@@ -1,25 +1,32 @@
 ---
 wps: 
+   - "1"
    - "2"
    - "5"
 published: "true"
 type: "inproceedings"
 partner: 
    - "ISTI"
-doi: "10.1007/978-3-031-19759-8_10"
-pages: "142--164"
+bibsource: "dblp computer science bibliography, https://dblp.org"
+biburl: "https://dblp.org/rec/conf/isola/BussiCGLM22.bib"
+timestamp: "Fri, 21 Oct 2022 19:54:54 +0200"
+doi: "10.1007/978-3-031-19849-6\_27"
+url: "https://doi.org/10.1007/978-3-031-19849-6\_27"
 year: 2022
 publisher: "Springer"
-volume: "13703"
+pages: "479--497"
+volume: "13701"
 series: "Lecture Notes in Computer Science"
+booktitle: "Leveraging Applications of Formal Methods, Verification and Validation. Verification Principles - 11th International Symposium, ISoLA 2022, Rhodes, Greece, October 22-30, 2022, Proceedings, Part {I}"
+title: "On Binding in the Spatial Logics for Closure Spaces"
 editor: 
    - "Tiziana Margaria"
    - "Bernhard Steffen"
-booktitle: "Proceedings of the 11th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation: Adaptation and Learning (ISoLA'22)"
-title: "An Experimental Toolchain for Strategy Synthesis with Spatial Properties"
 author: 
-   - "Davide Basile"
-   - "Maurice H. ter Beek"
+   - "Laura Bussi"
    - "Vincenzo Ciancia"
-id: "BBC22"
+   - "Fabio Gadducci"
+   - "Diego Latella"
+   - "Mieke Massink"
+id: "DBLP:conf/isola/BussiCGLM22"
 ---
