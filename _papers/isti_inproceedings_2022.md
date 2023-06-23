@@ -16,7 +16,7 @@ pages: "103--111"
 volume: "1581"
 series: "Communications in Computer and Information Science"
 booktitle: "{HCI} International 2022 Posters - 24th International Conference on Human-Computer Interaction, {HCII} 2022, Virtual Event, June 26 - July 1, 2022, Proceedings, Part {II}"
-title: "Towards a {GUI} for Declarative Medical Image Analysis: Cognitive and Memory Load Issues"
+title: "Towards a GUI for Declarative Medical Image Analysis: Cognitive and Memory Load Issues"
 editor: 
    - "Constantine Stephanidis"
    - "Margherita Antona"
