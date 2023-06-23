@@ -1,13 +1,14 @@
 ---
 wps: 
-   - "1"
    - "2"
+   - "3"
+   - "4"
 published: "true"
 type: "inproceedings"
 partner: 
    - "ISTI"
-doi: "10.1007/978-3-031-27481-7_9"
-pages: "122--141"
+doi: "10.1007/978-3-031-27481-7_31"
+pages: "550--567"
 year: 2023
 publisher: "Springer"
 volume: "14000"
@@ -17,11 +18,9 @@ editor:
    - "Joost-Pieter Katoen"
    - "Martin Leucker"
 booktitle: "Proceedings of the 25th International Symposium on Formal Methods (FM'23)"
-title: "Can We Communicate? Using Dynamic Logic to Verify Team Automata"
+title: "A Runtime Environment for Contract Automata"
 author: 
+   - "Davide Basile"
    - "Maurice H. ter Beek"
-   - "Guillermina Cledou"
-   - "Rolf Hennicker"
-   - "José Proença"
-id: "BCHP23"
+id: "BB23"
 ---

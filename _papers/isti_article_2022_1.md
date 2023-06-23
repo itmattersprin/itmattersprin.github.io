@@ -1,19 +1,22 @@
 ---
 wps: 
    - "2"
-   - "3"
+   - "5"
 published: "true"
 type: "article"
 partner: 
    - "ISTI"
+doi: "10.1007/s10009-022-00653-3"
+pages: "351--370"
+year: 2022
+number: "3"
+volume: "24"
+journal: "Int. J. Softw. Tools Technol. Transf."
+title: "Exploring the ERTMS/ETCS full moving block specification: an experience with formal methods"
 author: 
    - "Davide Basile"
    - "Maurice H. ter Beek"
-url: "https://www.sciencedirect.com/science/article/pii/S0167642322000740"
-doi: "10.1016/j.scico.2022.102841"
-issn: "0167-6423"
-year: 2022
-journal: "Sci. Comput. Program."
-title: "Contract Automata Library"
-id: "BB22"
+   - "Alessio Ferrari"
+   - "Axel Legay"
+id: "BasileBFL22"
 ---
