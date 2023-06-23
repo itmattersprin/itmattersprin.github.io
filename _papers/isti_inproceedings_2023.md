@@ -1,4 +1,12 @@
 ---
+wps: 
+   - "1"
+   - "2"
+   - "5"
+published: "true"
+type: "inproceedings"
+partner: 
+   - "ISTI"
 bibsource: "dblp computer science bibliography, https://dblp.org"
 biburl: "https://dblp.org/rec/conf/fm/CianciaGLMV23.bib"
 timestamp: "Sat, 11 Mar 2023 00:11:48 +0100"
@@ -21,7 +29,5 @@ author:
    - "Diego Latella"
    - "Mieke Massink"
    - "Erik P. de Vink"
-type: "inproceedings"
 id: "DBLP:conf/fm/CianciaGLMV23"
-published: "true"
 ---

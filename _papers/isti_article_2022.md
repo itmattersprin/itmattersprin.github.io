@@ -1,4 +1,12 @@
 ---
+wps: 
+   - "1"
+   - "2"
+   - "5"
+published: "true"
+type: "article"
+partner: 
+   - "ISTI"
 bibsource: "dblp computer science bibliography, https://dblp.org"
 biburl: "https://dblp.org/rec/journals/lmcs/BezhanishviliCG22.bib"
 timestamp: "Sat, 29 Apr 2023 19:27:35 +0200"
@@ -16,7 +24,5 @@ author:
    - "Gianluca Grilletti"
    - "Diego Latella"
    - "Mieke Massink"
-type: "article"
 id: "DBLP:journals/lmcs/BezhanishviliCG22"
-published: "true"
 ---
